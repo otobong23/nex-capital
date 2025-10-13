@@ -1,0 +1,545 @@
+{
+  "nav": {
+    "about": "关于我们",
+    "faq": "常见问题",
+    "contact": "联系我们",
+    "dashboard": "仪表板",
+    "startTrading": "开始交易"
+  },
+  "hero": {
+    "title": "自信交易，与NEX_Capital共同成长",
+    "titleHighlight": "NEX_Capital",
+    "subtitle": "加入数千名使用我们先进平台的成功交易者。以尽可能少的资金开始，通过我们经过验证的策略观看您的投资增长。",
+    "cta": "立即开始交易",
+    "badge": "新一代加密货币交易平台"
+  },
+  "features": {
+    "title": "为什么选择NEX_Capital？",
+    "subtitle": "探索让我们成为全球交易者首选的强大功能"
+  },
+  "pricing": {
+    "title": "选择您的交易计划",
+    "subtitle": "选择最适合您投资目标和经验的计划",
+    "monthly": "每月",
+    "mostPopular": "最受欢迎",
+    "getStarted": "开始",
+    "plan500": {
+      "name": "入门计划",
+      "price": "$500",
+      "description": "适合初学者开启交易之路",
+      "features": []
+    },
+    "plan1000": {
+      "name": "基础计划",
+      "price": "$1,000",
+      "description": "适合有一定经验的交易者",
+      "features": []
+    },
+    "plan5000": {
+      "name": "专业计划",
+      "price": "$5,000",
+      "description": "适合追求最大回报的专业交易者",
+      "features": []
+    },
+    "plan10000": {
+      "name": "精英计划",
+      "price": "$10,000",
+      "description": "为精英交易者提供高级功能",
+      "features": []
+    },
+    "plan200000": {
+      "name": "机构计划",
+      "price": "$200,000",
+      "description": "为机构客户提供企业级解决方案",
+      "features": []
+    }
+  },
+  "about": {
+    "title": "关于我们",
+    "whoWeAre": {
+      "title": "我们是谁",
+      "subtitle": "欢迎来到Trade Phere！",
+      "description": "我们专注于透明、安全和创新，依托尖端技术和专家支持，帮助个人快速高效地提升收入。"
+    },
+    "aboutTradePhere": {
+      "title": "关于Trade Phere",
+      "subtitle": "我们是谁，我们做什么！",
+      "description": "欢迎来到Trade Phere网站！我们的投资平台是交易、加密货币高收益交易和在线营销领域专家精心准备和努力工作的成果。采用现代商业方法和个性化服务，我们为希望将比特币作为支付方式和稳定收入来源的人们提供独特的投资模式。Trade Phere业务仅使用现代矿机，并在最稳定的市场进行交易，最大限度降低客户的财务风险，确保每日稳定收益。"
+    },
+    "reliability": {
+      "title": "我们以可靠性为先",
+      "subtitle": "为什么选择我们？",
+      "description": "如果您来到这里，肯定在寻找可靠且有利可图的投资。是的，您来对地方了！我们公司基于外汇和比特币交易，提供最高质量的信托资产管理。没有其他全球金融市场能像比特币这样每日带来稳定收益。任何使用加密货币并了解其巨大前景的人都会接受我们的合作模式。您的存款持续运作，每天获利，可随时提现。立即加入我们，开启高收益之路！"
+    },
+    "legal": {
+      "title": "法律信息",
+      "subtitle": "我们已验证，可靠且值得信赖！",
+      "description": "作为英国注册公司，我们完全透明运营，严格遵守所有加密和金融交易法规，确保信任与可靠性。",
+      "viewCertificate": "查看证书"
+    },
+    "income": {
+      "title": "让您的收入更高",
+      "subtitle": "Trade Phere的最佳功能",
+      "feature1": {
+        "description": "我们的GeoTrust EV SSL证书保障您的交易安全。"
+      },
+      "feature2": {
+        "description": "只要您申请，即可即时到账！"
+      },
+      "feature3": {
+        "description": "NEX_Capital网站采用高性能专用服务器，安全防护等级最高。"
+      }
+    },
+    "faq": {
+      "title": "常见问题",
+      "question1": {
+        "answer": "Trade Phere是一家专注于加密货币交易和挖矿的投资平台。我们使用现代设备并在稳定市场交易，为客户每日带来收益，同时降低财务风险。"
+      },
+      "question2": {
+        "answer": "我们通过GeoTrust EV SSL证书、强大的服务器保护和英国法规合规，优先保障安全。作为英国注册公司，我们完全透明运营。"
+      },
+      "question3": {
+        "answer": "Trade Phere主要专注于比特币交易和挖矿，同时支持以太坊和USDT等主流加密货币的充值和提现。"
+      },
+      "question4": {
+        "answer": "我们提供即时支付！您可随时申请提现，资金会立即到账，让您完全掌控收益。"
+      },
+      "question5": {
+        "answer": "我们独特地结合了现代矿机、专业交易策略、每日收益、即时提现和合规运营。我们提供透明、安全和稳定回报。"
+      },
+      "question6": {
+        "answer": "无需交易经验！我们的专业团队为您管理所有交易活动。平台简单易用，无需技术知识即可投资和查看投资组合增长。"
+      }
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "准备开启您的交易之旅了吗？我们随时为您提供帮助。",
+    "form": {
+      "name": "您的姓名",
+      "email": "邮箱地址",
+      "subject": "主题",
+      "message": "您的留言",
+      "send": "发送信息",
+      "title": "发送消息给我们",
+      "lastName": "姓氏"
+    },
+    "info": {
+      "title": "联系方式",
+      "email": "发送邮件",
+      "emailValue": "support@nexcapital.com",
+      "response": "响应时间",
+      "responseValue": "24小时内",
+      "support": "支持时间",
+      "supportValue": "全天候",
+      "location": "位置",
+      "phone": "电话"
+    },
+    "chat": {
+      "title": "在线聊天支持",
+      "subtitle": "即时获得支持团队帮助",
+      "placeholder": "请输入您的消息...",
+      "send": "发送",
+      "description": "需要立即帮助吗？我们的在线客服支持24/7全天候为您解答任何问题。",
+      "openChat": "打开在线客服",
+      "support": "在线支持",
+      "greeting": "您好！今天我们如何为您提供帮助？",
+      "sampleMessage": "我对我的账户有疑问",
+      "response": "感谢您联系我们！我们的团队将很快为您提供帮助。"
+    },
+    "hours": {
+      "title": "营业时间",
+      "weekdays": "周一 - 周五",
+      "saturday": "周六",
+      "sunday": "周日",
+      "closed": "关闭"
+    }
+  },
+  "footer": {
+    "description": "以尖端技术和专家支持赋能全球交易者。",
+    "trading": "交易",
+    "features": "功能",
+    "pricing": "价格",
+    "resources": "资源",
+    "help": "帮助中心",
+    "blog": "博客",
+    "legal": "法律信息",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "copyright": "© 2024 NEX_Capital. 保留所有权利。"
+  },
+  "dashboard": {
+    "nav": {
+      "home": "首页",
+      "plans": "计划",
+      "wallet": "钱包",
+      "history": "历史",
+      "market": "市场",
+      "deposit": "充值",
+      "withdrawal": "提现",
+      "logout": "退出"
+    },
+    "home": {
+      "welcome": "欢迎回来",
+      "totalBalance": "总余额",
+      "dailyProfit": "日收益",
+      "activeInvestments": "活跃投资",
+      "totalWithdrawn": "总提现",
+      "portfolioOverview": "投资组合概览",
+      "recentTransactions": "最近交易",
+      "marketWatch": "市场观察",
+      "quickActions": "快速操作",
+      "viewAll": "查看全部",
+      "deposit": "充值",
+      "withdraw": "提现"
+    },
+    "plans": {
+      "title": "投资计划",
+      "subtitle": "选择符合您投资目标的完美计划",
+      "selectPlan": "选择计划",
+      "minDeposit": "最低存款",
+      "dailyReturn": "日收益率",
+      "duration": "期限",
+      "totalReturn": "总收益",
+      "currentPlan": "您的当前计划",
+      "active": "活跃",
+      "mostPopular": "最受欢迎",
+      "investmentAmount": "投资金额"
+    },
+    "wallet": {
+      "title": "钱包概览",
+      "subtitle": "管理您的加密货币余额",
+      "totalBalance": "总余额",
+      "availableBalance": "可用余额",
+      "pendingDeposits": "待处理充值",
+      "cryptoHoldings": "加密货币持有",
+      "quickActions": "快速操作",
+      "marketValue": "市场价值",
+      "change24h": "24小时变化",
+      "deposit": "充值",
+      "withdraw": "提现",
+      "trade": "交易"
+    },
+    "history": {
+      "title": "交易历史",
+      "subtitle": "跟踪您的所有交易",
+      "filterByType": "按类型筛选",
+      "filterByStatus": "按状态筛选",
+      "searchTransactions": "搜索交易",
+      "allTypes": "所有类型",
+      "allStatuses": "所有状态",
+      "type": "类型",
+      "amount": "金额",
+      "status": "状态",
+      "date": "日期",
+      "id": "ID",
+      "noTransactions": "未找到交易"
+    },
+    "market": {
+      "title": "市场数据",
+      "subtitle": "实时加密货币价格和图表",
+      "featuredMarkets": "特色市场",
+      "tradingPairs": "交易对",
+      "price": "价格",
+      "change": "变化",
+      "volume": "交易量",
+      "marketCap": "市值",
+      "startTrading": "开始交易",
+      "searchMarkets": "搜索市场...",
+      "pair": "交易对",
+      "action": "操作",
+      "high24h": "24小时最高",
+      "low24h": "24小时最低",
+      "bitcoinChart": "比特币图表",
+      "ethereumChart": "以太坊图表"
+    },
+    "deposit": {
+      "title": "充值资金",
+      "subtitle": "选择加密货币和充值金额",
+      "selectCrypto": "选择加密货币",
+      "depositAmount": "充值金额",
+      "amount": "金额 (USD)",
+      "enterAmount": "输入金额",
+      "proceedToDeposit": "进行充值",
+      "error": "错误",
+      "selectCryptoAndAmount": "请选择加密货币并输入金额"
+    },
+    "depositConfirm": {
+      "title": "确认充值",
+      "subtitle": "将您的充值发送到以下地址",
+      "walletAddress": "钱包地址",
+      "currentValue": "当前价值",
+      "depositInstructions": "充值说明",
+      "instruction1": "复制上面的钱包地址",
+      "instruction2": "将所需金额发送到此地址",
+      "instruction3": "在下方上传付款凭证",
+      "instruction4": "点击\"确认充值\"继续",
+      "uploadProof": "上传付款凭证",
+      "selectFile": "选择文件",
+      "confirmDeposit": "确认充值",
+      "copyAddress": "复制地址",
+      "addressCopied": "地址已复制！",
+      "pleaseUploadProof": "请上传付款凭证",
+      "depositRequested": "充值请求已提交",
+      "depositBeingProcessed": "您的充值正在处理中"
+    },
+    "withdrawal": {
+      "title": "提现资金",
+      "subtitle": "选择加密货币并输入提现详情",
+      "selectCrypto": "选择加密货币",
+      "withdrawalDetails": "提现详情",
+      "walletAddress": "钱包地址",
+      "enterWalletAddress": "输入钱包地址",
+      "amount": "金额",
+      "enterAmount": "输入金额",
+      "available": "可用",
+      "requestWithdrawal": "请求提现",
+      "error": "错误",
+      "fillAllFields": "请填写所有字段",
+      "withdrawalRequested": "提现请求已提交",
+      "withdrawalBeingProcessed": "您的提现正在处理中"
+    }
+  },
+  "admin": {
+    "nav": {
+      "dashboard": "仪表板",
+      "users": "用户",
+      "transactions": "交易",
+      "settings": "设置",
+      "logout": "退出",
+      "adminPanel": "管理员面板",
+      "admin": "管理员"
+    },
+    "login": {
+      "title": "管理员登录",
+      "subtitle": "登录到您的管理员面板",
+      "username": "用户名",
+      "password": "密码",
+      "login": "登录",
+      "loggingIn": "登录中...",
+      "error": "错误",
+      "invalidCredentials": "无效凭据",
+      "loginFailed": "登录失败。请稍后重试或重新加载页面",
+      "fillAllFields": "请填写所有字段"
+    },
+    "dashboard": {
+      "title": "管理员仪表板",
+      "totalUsers": "总用户数",
+      "activeUsers": "活跃用户",
+      "totalDeposits": "总充值",
+      "totalWithdrawals": "总提现",
+      "pendingTransactions": "待处理交易",
+      "systemHealth": "系统状态",
+      "userGrowth": "用户增长",
+      "transactionVolume": "交易量",
+      "recentActivity": "最近活动",
+      "quickActions": "快速操作",
+      "viewAllUsers": "查看所有用户",
+      "viewTransactions": "查看交易",
+      "systemSettings": "系统设置",
+      "subtitle": "系统概览",
+      "totalTransactions": "总交易数",
+      "completedTransactions": "已完成交易",
+      "rejectedTransactions": "被拒绝的交易",
+      "newUsersWeek": "比上周增长+12%",
+      "monthlyGrowth": "比上月增长+8%",
+      "depositsGrowth": "比上月增长+15%",
+      "withdrawalsChange": "比上月增长+5%",
+      "requiresAttention": "需要关注",
+      "successfullyProcessed": "成功处理",
+      "failedTransactions": "失败的交易",
+      "recentTransactions": "最近交易"
+    },
+    "users": {
+      "title": "所有用户",
+      "subtitle": "管理用户账户和监控活动",
+      "searchUsers": "搜索用户",
+      "filterByStatus": "按状态筛选",
+      "allStatuses": "所有状态",
+      "name": "姓名",
+      "email": "邮箱",
+      "balance": "余额",
+      "status": "状态",
+      "joined": "加入时间",
+      "actions": "操作",
+      "view": "查看",
+      "noUsers": "未找到用户",
+      "totalUsers": "用户总数",
+      "filterUsers": "筛选用户",
+      "searchPlaceholder": "按用户名、姓名或邮箱搜索...",
+      "usersList": "用户列表 ({{count}})"
+    },
+    "userDetail": {
+      "title": "用户详情",
+      "subtitle": "查看和编辑用户信息",
+      "personalInfo": "个人信息",
+      "accountInfo": "账户信息",
+      "name": "姓名",
+      "email": "邮箱",
+      "phone": "电话",
+      "address": "地址",
+      "balance": "余额",
+      "status": "状态",
+      "joinedDate": "加入日期",
+      "lastLogin": "最后登录",
+      "totalDeposits": "总充值",
+      "totalWithdrawals": "总提现",
+      "accountActions": "账户操作",
+      "editUser": "编辑用户",
+      "suspendUser": "暂停用户",
+      "activateUser": "激活用户",
+      "updateBalance": "更新余额",
+      "recentTransactions": "最近交易",
+      "backToUsers": "返回用户",
+      "updateUserInfo": "更新用户信息",
+      "newBalance": "新余额",
+      "updateBalanceAction": "更新余额",
+      "userUpdated": "用户已更新",
+      "userInfoUpdated": "用户信息更新成功"
+    },
+    "transactions": {
+      "title": "所有交易",
+      "subtitle": "管理和批准所有平台交易",
+      "filterByType": "按类型筛选",
+      "filterByStatus": "按状态筛选",
+      "searchTransactions": "搜索交易",
+      "allTypes": "所有类型",
+      "allStatuses": "所有状态",
+      "user": "用户",
+      "type": "类型",
+      "amount": "金额",
+      "status": "状态",
+      "date": "日期",
+      "actions": "操作",
+      "approve": "批准",
+      "reject": "拒绝",
+      "noTransactions": "未找到交易",
+      "transactionApproved": "交易已批准",
+      "transactionRejected": "交易已拒绝",
+      "transactionUpdated": "交易更新成功",
+      "total": "总计",
+      "filterTransactions": "筛选交易",
+      "searchPlaceholder": "按用户、类型或加密货币搜索...",
+      "allStatus": "所有状态",
+      "deposit": "存款",
+      "withdrawal": "提款",
+      "pending": "待处理",
+      "completed": "已完成",
+      "rejected": "已拒绝",
+      "transactionsList": "交易列表 ({{count}})",
+      "approved": "交易已批准",
+      "markedCompleted": "交易已标记为完成",
+      "hasBeenRejected": "交易已被拒绝",
+      "downloadingReceipt": "正在下载收据",
+      "receiptFor": "{{user}} 的交易收据"
+    },
+    "settings": {
+      "title": "管理员设置",
+      "subtitle": "管理系统配置",
+      "changePassword": "更改密码",
+      "currentPassword": "当前密码",
+      "newPassword": "新密码",
+      "confirmPassword": "确认密码",
+      "updatePassword": "更新密码",
+      "walletAddresses": "钱包地址",
+      "bitcoinAddress": "比特币地址",
+      "ethereumAddress": "以太坊地址",
+      "usdtAddress": "USDT地址",
+      "updateAddresses": "更新地址",
+      "systemSettings": "系统设置",
+      "maintenanceMode": "维护模式",
+      "enableRegistration": "启用注册",
+      "enableDeposits": "启用充值",
+      "enableWithdrawals": "启用提现",
+      "saveSettings": "保存设置",
+      "passwordUpdated": "密码已更新",
+      "passwordUpdatedSuccess": "您的密码已成功更新",
+      "addressesUpdated": "地址已更新",
+      "walletAddressesUpdated": "钱包地址更新成功",
+      "settingsUpdated": "设置已更新",
+      "systemSettingsUpdated": "系统设置更新成功",
+      "error": "错误",
+      "passwordsDoNotMatch": "密码不匹配",
+      "fillAllFields": "请填写所有字段",
+      "passwordTooShort": "密码必须至少6个字符",
+      "systemInformation": "系统信息",
+      "platformVersion": "平台版本",
+      "lastUpdated": "最后更新",
+      "serverStatus": "服务器状态",
+      "online": "在线"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "登录您的账户",
+      "subtitle": "输入您的凭据以访问您的仪表板",
+      "email": "邮箱",
+      "password": "密码",
+      "login": "登录",
+      "noAccount": "没有账户？",
+      "signUp": "注册",
+      "error": "错误",
+      "fillAllFields": "请填写所有字段",
+      "username": "用户名",
+      "usernamePlaceholder": "输入您的用户名",
+      "passwordPlaceholder": "输入您的密码",
+      "signIn": "登录",
+      "signingIn": "登录中...",
+      "signUpHere": "在这里注册",
+      "backToHome": "返回首页"
+    },
+    "signup": {
+      "title": "创建账户",
+      "subtitle": "立即加入Trade Phere",
+      "firstName": "名",
+      "lastName": "姓",
+      "username": "用户名",
+      "password": "密码",
+      "confirmPassword": "确认密码",
+      "createAccount": "创建账户",
+      "creatingAccount": "创建账户中...",
+      "firstNamePlaceholder": "明",
+      "lastNamePlaceholder": "李",
+      "usernamePlaceholder": "选择用户名",
+      "passwordPlaceholder": "创建密码",
+      "confirmPasswordPlaceholder": "确认您的密码",
+      "haveAccount": "已有账户？",
+      "signIn": "在此登录",
+      "backToHome": "返回首页",
+      "passwordsDoNotMatch": "密码不匹配",
+      "fillAllFields": "请填写所有字段",
+      "accountCreated": "账户已创建",
+      "signupFailed": "账户创建失败。请稍后重试"
+    }
+  },
+  "common": {
+    "loading": "加载中...",
+    "save": "保存",
+    "cancel": "取消",
+    "confirm": "确认",
+    "delete": "删除",
+    "edit": "编辑",
+    "view": "查看",
+    "back": "返回",
+    "next": "下一个",
+    "previous": "上一个",
+    "search": "搜索",
+    "filter": "筛选",
+    "all": "全部",
+    "none": "无",
+    "yes": "是",
+    "no": "否",
+    "success": "成功",
+    "error": "错误",
+    "warning": "警告",
+    "info": "信息",
+    "status": {
+      "active": "活跃",
+      "inactive": "非活跃",
+      "suspended": "已暂停",
+      "pending": "待处理",
+      "completed": "已完成",
+      "rejected": "已拒绝"
+    }
+  }
+}

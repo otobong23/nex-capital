@@ -1,0 +1,531 @@
+{
+  "nav": {
+    "about": "회사 소개",
+    "faq": "자주 묻는 질문",
+    "contact": "연락처",
+    "dashboard": "대시보드",
+    "startTrading": "거래 시작"
+  },
+  "hero": {
+    "title": "신뢰로 거래하고, 함께 성장하세요",
+    "titleHighlight": "NEX_Capital",
+    "subtitle": "우리의 첨단 플랫폼을 사용하는 수천 명의 성공한 트레이더들과 함께하세요. 가능한 한 적은 금액으로 시작하여 검증된 전략으로 투자가 성장하는 것을 지켜보세요.",
+    "cta": "지금 거래 시작"
+  },
+  "features": {
+    "title": "왜 NEX_Capital를 선택해야 하나요?",
+    "subtitle": "전 세계 트레이더들이 선호하는 강력한 기능을 확인하세요"
+  },
+  "pricing": {
+    "title": "거래 플랜 선택",
+    "subtitle": "투자 목표와 경험에 맞는 완벽한 플랜을 선택하세요",
+    "monthly": "월간",
+    "mostPopular": "가장 인기",
+    "getStarted": "시작하기",
+    "plan500": {
+      "name": "스타터 플랜",
+      "price": "$500",
+      "description": "거래를 처음 시작하는 분께 적합",
+      "features": []
+    },
+    "plan1000": {
+      "name": "베이직 플랜",
+      "price": "$1,000",
+      "description": "일부 경험이 있는 트레이더에게 이상적",
+      "features": []
+    },
+    "plan5000": {
+      "name": "프로페셔널 플랜",
+      "price": "$5,000",
+      "description": "최대 수익을 추구하는 진지한 트레이더용",
+      "features": []
+    },
+    "plan10000": {
+      "name": "엘리트 플랜",
+      "price": "$10,000",
+      "description": "엘리트 트레이더를 위한 프리미엄 기능",
+      "features": []
+    },
+    "plan200000": {
+      "name": "기관 플랜",
+      "price": "$200,000",
+      "description": "기관 고객을 위한 엔터프라이즈 솔루션",
+      "features": []
+    }
+  },
+  "about": {
+    "title": "회사 소개",
+    "whoWeAre": {
+      "title": "우리는 누구인가요",
+      "subtitle": "Trade Phere에 오신 것을 환영합니다!",
+      "description": "투명성, 보안, 혁신에 중점을 두고, 첨단 기술과 전문가 지원으로 빠르고 효율적으로 수익을 성장시킬 수 있도록 돕습니다."
+    },
+    "aboutTradePhere": {
+      "title": "Trade Phere 소개",
+      "subtitle": "우리는 누구이며 무엇을 하나요!",
+      "description": "Trade Phere의 웹사이트에 오신 것을 환영합니다! 저희 투자 플랫폼은 거래, 암호화폐 고수익 거래, 온라인 마케팅 분야 전문가들의 신중한 준비와 결실로 탄생했습니다. 최신 비즈니스 방식과 고객별 맞춤 접근을 통해, 비트코인을 결제 수단뿐 아니라 안정적인 수익원으로 활용하고자 하는 분께 독특한 투자 모델을 제공합니다. Trade Phere는 최신 채굴 장비만을 사용하며 가장 안정적인 시장에서 거래하여 고객의 재정 손실 위험을 최소화하고 매일 안정적인 수익을 보장합니다."
+    },
+    "reliability": {
+      "title": "신뢰로 앞서갑니다",
+      "subtitle": "왜 저희를 선택해야 하나요?",
+      "description": "여기에 오셨다면 신뢰할 수 있고 수익성 있는 투자를 찾고 계신 겁니다. 네, 바로 올바른 곳에 오셨습니다! 저희 회사는 외환 및 비트코인 거래를 기반으로 최고 품질의 신탁 자산 관리를 제공합니다. 비트코인의 큰 가격 변동으로 매일 꾸준한 수익을 보장할 수 있는 다른 글로벌 금융 시장은 없습니다. 협력 강화를 위한 제안 방식은 암호화폐를 사용하는 누구에게나 받아들여질 것입니다. 예치금은 지속적으로 운용되어 매일 수익을 창출하며, 즉시 출금이 가능합니다. 오늘 저희 회사에 가입하여 높은 수익을 시작하세요!"
+    },
+    "legal": {
+      "title": "법적 정보",
+      "subtitle": "검증된 신뢰와 안정성!",
+      "description": "영국에 등록된 회사로서, 모든 암호화폐 및 금융 거래에 대한 엄격한 규정을 준수하며 완전한 투명성을 제공합니다.",
+      "viewCertificate": "인증서 보기"
+    },
+    "income": {
+      "title": "수익을 키우세요",
+      "subtitle": "Trade Phere의 최고의 기능",
+      "feature1": {
+        "description": "GeoTrust EV SSL 인증서로 거래의 안전을 보장합니다."
+      },
+      "feature2": {
+        "description": "요청 즉시 즉시 결제받으세요!"
+      },
+      "feature3": {
+        "description": "강력한 서버 보호로 안전하게 거래하세요."
+      }
+    },
+    "faq": {
+      "title": "자주 묻는 질문",
+      "question1": {
+        "answer": "Trade Phere는 암호화폐 거래 및 채굴에 중점을 둔 투자 플랫폼입니다. 최신 장비와 안정적인 시장에서 거래하여 고객에게 매일 수익을 제공하며 재정적 위험을 최소화합니다."
+      },
+      "question2": {
+        "answer": "GeoTrust EV SSL 인증서, 강력한 서버 보호, 영국 규정 준수로 보안을 최우선합니다. 영국 등록 회사로서 완전한 투명성을 제공합니다."
+      },
+      "question3": {
+        "answer": "Trade Phere는 비트코인 거래 및 채굴에 주력하지만, 입출금용으로 이더리움과 USDT 등 주요 암호화폐도 지원합니다."
+      },
+      "question4": {
+        "answer": "즉시 결제! 언제든 출금을 요청할 수 있으며, 요청 즉시 결제가 처리되어 수익을 완전히 통제할 수 있습니다."
+      },
+      "question5": {
+        "answer": "최신 채굴 장비, 전문 거래 전략, 일일 수익 창출, 즉시 출금, 완전한 규정 준수의 독특한 조합이 저희의 차별점입니다. 투명성, 보안, 꾸준한 수익을 제공합니다."
+      },
+      "question6": {
+        "answer": "경험이 없어도 됩니다! 전문 팀이 모든 거래 활동을 관리합니다. 기술 지식 없이도 투자하고 포트폴리오 성장을 쉽게 확인할 수 있습니다."
+      }
+    }
+  },
+  "contact": {
+    "title": "문의하기",
+    "subtitle": "거래 여정을 시작할 준비가 되셨나요? 언제든 도와드리겠습니다.",
+    "form": {
+      "name": "이름",
+      "email": "이메일 주소",
+      "subject": "제목",
+      "message": "메시지",
+      "send": "메시지 보내기",
+      "title": "메시지 보내기",
+      "lastName": "성"
+    },
+    "info": {
+      "title": "연락처 정보",
+      "email": "이메일 문의",
+      "emailValue": "support@nexcapitalcom",
+      "response": "응답 시간",
+      "responseValue": "24시간 이내",
+      "support": "지원 시간",
+      "supportValue": "24/7 가능",
+      "location": "위치",
+      "phone": "전화"
+    },
+    "chat": {
+      "title": "실시간 채팅 지원",
+      "subtitle": "지원팀에서 즉시 도움을 받으세요",
+      "placeholder": "메시지를 입력하세요...",
+      "send": "보내기",
+      "description": "즉시 도움이 필요하신가요? 저희 라이브 채팅 지원은 24/7 언제든지 질문에 답변드립니다.",
+      "openChat": "라이브 채팅 열기",
+      "support": "라이브 지원",
+      "greeting": "안녕하세요! 오늘 어떻게 도움을 드릴까요?",
+      "sampleMessage": "계정에 대한 질문이 있습니다",
+      "response": "연락 주셔서 감사합니다! 저희 팀이 곧 도움을 드릴 것입니다."
+    },
+    "hours": {
+      "title": "영업시간",
+      "weekdays": "월요일 - 금요일",
+      "saturday": "토요일",
+      "sunday": "일요일",
+      "closed": "휴무"
+    }
+  },
+  "footer": {
+    "description": "첨단 기술과 전문가 지원으로 전 세계 트레이더를 지원합니다.",
+    "trading": "거래",
+    "features": "기능",
+    "pricing": "가격",
+    "resources": "자료",
+    "help": "도움말 센터",
+    "blog": "블로그",
+    "legal": "법적 정보",
+    "privacy": "개인정보 처리방침",
+    "terms": "서비스 약관",
+    "copyright": "© 2024 NEX_Capital. 모든 권리 보유."
+  },
+  "dashboard": {
+    "nav": {
+      "home": "홈",
+      "plans": "플랜",
+      "wallet": "지갑",
+      "history": "내역",
+      "market": "마켓",
+      "deposit": "입금",
+      "withdrawal": "출금",
+      "logout": "로그아웃"
+    },
+    "home": {
+      "welcome": "다시 오신 것을 환영합니다",
+      "totalBalance": "총 잔액",
+      "dailyProfit": "일일 수익",
+      "activeInvestments": "활성 투자",
+      "totalWithdrawn": "총 출금액",
+      "portfolioOverview": "포트폴리오 개요",
+      "recentTransactions": "최근 거래",
+      "marketWatch": "마켓 워치",
+      "quickActions": "빠른 작업",
+      "viewAll": "모두 보기",
+      "deposit": "입금",
+      "withdraw": "출금"
+    },
+    "plans": {
+      "title": "투자 플랜",
+      "subtitle": "투자 목표에 맞는 완벽한 플랜을 선택하세요",
+      "selectPlan": "플랜 선택",
+      "minDeposit": "최소 입금",
+      "dailyReturn": "일일 수익률",
+      "duration": "기간",
+      "totalReturn": "총 수익률",
+      "currentPlan": "현재 플랜",
+      "active": "활성",
+      "mostPopular": "가장 인기",
+      "investmentAmount": "투자 금액"
+    },
+    "wallet": {
+      "title": "지갑 개요",
+      "subtitle": "암호화폐 잔액 관리",
+      "totalBalance": "총 잔액",
+      "availableBalance": "사용 가능한 잔액",
+      "pendingDeposits": "대기 중인 입금",
+      "cryptoHoldings": "암호화폐 보유",
+      "quickActions": "빠른 작업",
+      "marketValue": "시장 가치",
+      "change24h": "24시간 변화",
+      "deposit": "입금",
+      "withdraw": "출금",
+      "trade": "거래"
+    },
+    "history": {
+      "title": "거래 내역",
+      "subtitle": "모든 거래 추적",
+      "filterByType": "유형별 필터",
+      "filterByStatus": "상태별 필터",
+      "searchTransactions": "거래 검색",
+      "allTypes": "모든 유형",
+      "allStatuses": "모든 상태",
+      "type": "유형",
+      "amount": "금액",
+      "status": "상태",
+      "date": "날짜",
+      "id": "ID",
+      "noTransactions": "거래를 찾을 수 없습니다"
+    },
+    "market": {
+      "title": "마켓 데이터",
+      "subtitle": "실시간 암호화폐 가격 및 차트",
+      "featuredMarkets": "주요 마켓",
+      "tradingPairs": "거래 쌍",
+      "price": "가격",
+      "change": "변화",
+      "volume": "거래량",
+      "marketCap": "시가총액",
+      "startTrading": "거래 시작",
+      "searchMarkets": "마켓 검색...",
+      "pair": "페어",
+      "action": "액션",
+      "high24h": "24시간 최고",
+      "low24h": "24시간 최저",
+      "bitcoinChart": "비트코인 차트",
+      "ethereumChart": "이더리움 차트"
+    },
+    "deposit": {
+      "title": "자금 입금",
+      "subtitle": "암호화폐와 입금 금액을 선택하세요",
+      "selectCrypto": "암호화폐 선택",
+      "depositAmount": "입금 금액",
+      "amount": "금액 (USD)",
+      "enterAmount": "금액 입력",
+      "proceedToDeposit": "입금 진행",
+      "error": "오류",
+      "selectCryptoAndAmount": "암호화폐를 선택하고 금액을 입력하세요"
+    },
+    "depositConfirm": {
+      "title": "입금 확인",
+      "subtitle": "아래 주소로 입금을 보내주세요",
+      "walletAddress": "지갑 주소",
+      "currentValue": "현재 가치",
+      "depositInstructions": "입금 지침",
+      "instruction1": "위의 지갑 주소를 복사하세요",
+      "instruction2": "이 주소로 원하는 금액을 보내세요",
+      "instruction3": "아래에 결제 증명을 업로드하세요",
+      "instruction4": "'입금 확인'을 클릭하여 계속하세요",
+      "uploadProof": "결제 증명 업로드",
+      "selectFile": "파일 선택",
+      "confirmDeposit": "입금 확인",
+      "copyAddress": "주소 복사",
+      "addressCopied": "주소가 복사되었습니다!",
+      "pleaseUploadProof": "결제 증명을 업로드해주세요",
+      "depositRequested": "입금 요청됨",
+      "depositBeingProcessed": "입금이 처리 중입니다"
+    },
+    "withdrawal": {
+      "title": "자금 출금",
+      "subtitle": "암호화폐를 선택하고 출금 세부사항을 입력하세요",
+      "selectCrypto": "암호화폐 선택",
+      "withdrawalDetails": "출금 세부사항",
+      "walletAddress": "지갑 주소",
+      "enterWalletAddress": "지갑 주소 입력",
+      "amount": "금액",
+      "enterAmount": "금액 입력",
+      "available": "사용 가능",
+      "requestWithdrawal": "출금 요청",
+      "error": "오류",
+      "fillAllFields": "모든 필드를 입력해주세요",
+      "withdrawalRequested": "출금 요청됨",
+      "withdrawalBeingProcessed": "출금이 처리 중입니다"
+    }
+  },
+  "admin": {
+    "nav": {
+      "dashboard": "대시보드",
+      "users": "사용자",
+      "transactions": "거래",
+      "settings": "설정",
+      "logout": "로그아웃",
+      "adminPanel": "관리자 패널",
+      "admin": "관리자"
+    },
+    "login": {
+      "title": "관리자 로그인",
+      "subtitle": "관리자 패널에 로그인하세요",
+      "username": "사용자명",
+      "password": "비밀번호",
+      "login": "로그인",
+      "error": "오류",
+      "invalidCredentials": "잘못된 자격 증명",
+      "loggingIn": "로그인 중...",
+      "loginFailed": "로그인에 실패했습니다. 나중에 다시 시도하거나 페이지를 새로고침하세요",
+      "fillAllFields": "모든 필드를 입력해주세요"
+    },
+    "dashboard": {
+      "title": "관리자 대시보드",
+      "totalUsers": "총 사용자 수",
+      "activeUsers": "활성 사용자",
+      "totalDeposits": "총 입금액",
+      "totalWithdrawals": "총 출금액",
+      "pendingTransactions": "대기 중인 거래",
+      "systemHealth": "시스템 상태",
+      "userGrowth": "사용자 증가",
+      "transactionVolume": "거래량",
+      "recentActivity": "최근 활동",
+      "quickActions": "빠른 작업",
+      "viewAllUsers": "모든 사용자 보기",
+      "viewTransactions": "거래 보기",
+      "systemSettings": "시스템 설정",
+      "subtitle": "시스템 개요",
+      "totalTransactions": "총 거래수",
+      "completedTransactions": "완료된 거래",
+      "rejectedTransactions": "거부된 거래",
+      "newUsersWeek": "지난 주 대비 +12%",
+      "monthlyGrowth": "지난 달 대비 +8%",
+      "depositsGrowth": "지난 달 대비 +15%",
+      "withdrawalsChange": "지난 달 대비 +5%",
+      "requiresAttention": "주의 필요",
+      "successfullyProcessed": "성공적으로 처리됨",
+      "failedTransactions": "실패한 거래",
+      "recentTransactions": "최근 거래"
+    },
+    "users": {
+      "title": "모든 사용자",
+      "subtitle": "사용자 계정 관리 및 활동 모니터링",
+      "searchUsers": "사용자 검색",
+      "filterByStatus": "상태별 필터",
+      "allStatuses": "모든 상태",
+      "name": "이름",
+      "email": "이메일",
+      "balance": "잔액",
+      "status": "상태",
+      "joined": "가입일",
+      "actions": "작업",
+      "view": "보기",
+      "noUsers": "사용자를 찾을 수 없습니다",
+      "totalUsers": "총 사용자수",
+      "filterUsers": "사용자 필터링",
+      "searchPlaceholder": "사용자명, 이름, 이메일로 검색...",
+      "usersList": "사용자 목록 ({{count}})"
+    },
+    "userDetail": {
+      "title": "사용자 세부정보",
+      "subtitle": "사용자 정보 보기 및 편집",
+      "personalInfo": "개인 정보",
+      "accountInfo": "계정 정보",
+      "name": "이름",
+      "email": "이메일",
+      "phone": "전화번호",
+      "address": "주소",
+      "balance": "잔액",
+      "status": "상태",
+      "joinedDate": "가입일",
+      "lastLogin": "마지막 로그인",
+      "totalDeposits": "총 입금액",
+      "totalWithdrawals": "총 출금액",
+      "accountActions": "계정 작업",
+      "editUser": "사용자 편집",
+      "suspendUser": "사용자 정지",
+      "activateUser": "사용자 활성화",
+      "updateBalance": "잔액 업데이트",
+      "recentTransactions": "최근 거래",
+      "backToUsers": "사용자로 돌아가기",
+      "updateUserInfo": "사용자 정보 업데이트",
+      "newBalance": "새 잔액",
+      "updateBalanceAction": "잔액 업데이트",
+      "userUpdated": "사용자 업데이트됨",
+      "userInfoUpdated": "사용자 정보가 성공적으로 업데이트되었습니다"
+    },
+    "transactions": {
+      "title": "모든 거래",
+      "subtitle": "모든 플랫폼 거래 관리 및 승인",
+      "filterByType": "유형별 필터",
+      "filterByStatus": "상태별 필터",
+      "searchTransactions": "거래 검색",
+      "allTypes": "모든 유형",
+      "allStatuses": "모든 상태",
+      "user": "사용자",
+      "type": "유형",
+      "amount": "금액",
+      "status": "상태",
+      "date": "날짜",
+      "actions": "작업",
+      "approve": "승인",
+      "reject": "거부",
+      "noTransactions": "거래를 찾을 수 없습니다",
+      "transactionApproved": "거래가 승인되었습니다",
+      "transactionRejected": "거래가 거부되었습니다",
+      "transactionUpdated": "거래가 성공적으로 업데이트되었습니다",
+      "total": "총계",
+      "filterTransactions": "거래 필터링",
+      "searchPlaceholder": "사용자, 유형, 암호화폐로 검색...",
+      "allStatus": "모든 상태",
+      "deposit": "입금",
+      "withdrawal": "출금",
+      "pending": "대기 중",
+      "completed": "완료",
+      "rejected": "거부됨",
+      "transactionsList": "거래 목록 ({{count}})",
+      "approved": "거래 승인됨",
+      "markedCompleted": "거래가 완료로 표시되었습니다",
+      "hasBeenRejected": "거래가 거부되었습니다",
+      "downloadingReceipt": "영수증 다운로드 중",
+      "receiptFor": "{{user}} 거래 영수증"
+    },
+    "settings": {
+      "title": "관리자 설정",
+      "subtitle": "시스템 구성 관리",
+      "changePassword": "비밀번호 변경",
+      "currentPassword": "현재 비밀번호",
+      "newPassword": "새 비밀번호",
+      "confirmPassword": "비밀번호 확인",
+      "updatePassword": "비밀번호 업데이트",
+      "walletAddresses": "지갑 주소",
+      "bitcoinAddress": "비트코인 주소",
+      "ethereumAddress": "이더리움 주소",
+      "usdtAddress": "USDT 주소",
+      "updateAddresses": "주소 업데이트",
+      "systemSettings": "시스템 설정",
+      "maintenanceMode": "유지보수 모드",
+      "enableRegistration": "등록 활성화",
+      "enableDeposits": "입금 활성화",
+      "enableWithdrawals": "출금 활성화",
+      "saveSettings": "설정 저장",
+      "passwordUpdated": "비밀번호 업데이트됨",
+      "passwordUpdatedSuccess": "비밀번호가 성공적으로 업데이트되었습니다",
+      "addressesUpdated": "주소 업데이트됨",
+      "walletAddressesUpdated": "지갑 주소가 성공적으로 업데이트되었습니다",
+      "settingsUpdated": "설정 업데이트됨",
+      "systemSettingsUpdated": "시스템 설정이 성공적으로 업데이트되었습니다",
+      "error": "오류",
+      "passwordsDoNotMatch": "비밀번호가 일치하지 않습니다",
+      "fillAllFields": "모든 필드를 입력해주세요"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "계정에 로그인",
+      "subtitle": "대시보드에 액세스하려면 자격 증명을 입력하세요",
+      "email": "이메일",
+      "password": "비밀번호",
+      "login": "로그인",
+      "noAccount": "계정이 없으신가요?",
+      "signUp": "가입하기",
+      "error": "오류",
+      "fillAllFields": "모든 필드를 입력해주세요",
+      "username": "사용자명",
+      "usernamePlaceholder": "사용자명을 입력하세요",
+      "passwordPlaceholder": "비밀번호를 입력하세요",
+      "signIn": "로그인",
+      "signingIn": "로그인 중...",
+      "signUpHere": "여기서 가입하세요",
+      "backToHome": "홈으로 돌아가기"
+    },
+    "signup": {
+      "title": "계정 생성",
+      "subtitle": "거래를 시작하려면 가입하세요",
+      "name": "전체 이름",
+      "email": "이메일",
+      "password": "비밀번호",
+      "confirmPassword": "비밀번호 확인",
+      "signUp": "가입하기",
+      "haveAccount": "이미 계정이 있으신가요?",
+      "signIn": "로그인",
+      "error": "오류",
+      "fillAllFields": "모든 필드를 입력해주세요",
+      "passwordsDoNotMatch": "비밀번호가 일치하지 않습니다",
+      "accountCreated": "계정 생성됨",
+      "accountCreatedSuccess": "계정이 성공적으로 생성되었습니다!"
+    }
+  },
+  "common": {
+    "loading": "로딩 중...",
+    "save": "저장",
+    "cancel": "취소",
+    "confirm": "확인",
+    "delete": "삭제",
+    "edit": "편집",
+    "view": "보기",
+    "back": "뒤로",
+    "next": "다음",
+    "previous": "이전",
+    "search": "검색",
+    "filter": "필터",
+    "all": "모두",
+    "none": "없음",
+    "yes": "예",
+    "no": "아니오",
+    "success": "성공",
+    "error": "오류",
+    "warning": "경고",
+    "info": "정보",
+    "status": {
+      "active": "활성",
+      "inactive": "비활성",
+      "suspended": "정지됨",
+      "pending": "대기 중",
+      "completed": "완료",
+      "rejected": "거부됨"
+    }
+  }
+}

@@ -1,0 +1,575 @@
+{
+  "nav": {
+    "about": "Über uns",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "dashboard": "Dashboard",
+    "startTrading": "Trading starten"
+  },
+  "hero": {
+    "title": "Handeln Sie mit Vertrauen, wachsen Sie mit",
+    "titleHighlight": "NEX_Capital",
+    "subtitle": "Schließen Sie sich Tausenden erfolgreicher Trader an, die unsere fortschrittliche Plattform nutzen. Beginnen Sie mit so wenig wie möglich und beobachten Sie, wie Ihre Investitionen mit unseren bewährten Strategien wachsen.",
+    "cta": "Jetzt mit dem Trading beginnen"
+  },
+  "features": {
+    "title": "Warum NEX_Capital wählen?",
+    "subtitle": "Entdecken Sie die leistungsstarken Funktionen, die uns zur bevorzugten Wahl für Trader weltweit machen"
+  },
+  "pricing": {
+    "title": "Wählen Sie Ihren Trading-Plan",
+    "subtitle": "Wählen Sie den perfekten Plan, der zu Ihren Anlagezielen und Trading-Erfahrungen passt",
+    "monthly": "Monatlich",
+    "mostPopular": "Am beliebtesten",
+    "getStarted": "Loslegen",
+    "plan500": {
+      "name": "Starter-Plan",
+      "price": "500$",
+      "description": "Perfekt für Anfänger, die ihre Trading-Reise beginnen",
+      "features": [
+        "Grundlegende Trading-Tools",
+        "E-Mail-Support",
+        "Monatliche Marktberichte",
+        "Risikomanagement-Beratung"
+      ]
+    },
+    "plan1000": {
+      "name": "Basis-Plan",
+      "price": "1.000$",
+      "description": "Ideal für Trader mit etwas Erfahrung",
+      "features": [
+        "Erweiterte Trading-Tools",
+        "Priority-Support",
+        "Wöchentliche Marktanalyse",
+        "Portfolio-Optimierung",
+        "Mobile Trading-App"
+      ]
+    },
+    "plan5000": {
+      "name": "Professional-Plan",
+      "price": "5.000$",
+      "description": "Für ernsthafte Trader, die maximale Renditen suchen",
+      "features": [
+        "Professionelle Trading-Suite",
+        "24/7 dedizierter Support",
+        "Tägliche Markt-Insights",
+        "Erweiterte Analysen",
+        "Persönlicher Trading-Berater",
+        "API-Zugang"
+      ]
+    },
+    "plan10000": {
+      "name": "Elite-Plan",
+      "price": "10.000$",
+      "description": "Premium-Features für Elite-Trader",
+      "features": [
+        "Elite-Trading-Plattform",
+        "VIP-Support-Hotline",
+        "Echtzeit-Marktdaten",
+        "Individuelle Trading-Strategien",
+        "Dedizierter Account-Manager",
+        "Exklusive Marktforschung",
+        "Erweiterte Risikomanagement"
+      ]
+    },
+    "plan200000": {
+      "name": "Institutional-Plan",
+      "price": "200.000$",
+      "description": "Unternehmenslösungen für institutionelle Kunden",
+      "features": [
+        "Institutionelle Plattform",
+        "White-Glove-Service",
+        "Maßgeschneiderte Integration",
+        "Institutionelle Preisgestaltung",
+        "Dedizierter Trading-Desk",
+        "Regulatory Compliance",
+        "Multi-Asset-Trading",
+        "Unbegrenzte API-Aufrufe"
+      ]
+    }
+  },
+  "about": {
+    "title": "Über uns",
+    "whoWeAre": {
+      "title": "Wer wir sind",
+      "subtitle": "Willkommen bei Trade Phere!",
+      "description": "Mit einem Fokus auf Transparenz, Sicherheit und Innovation befähigen wir Einzelpersonen, ihr Einkommen schnell und effizient zu steigern, unterstützt von modernster Technologie und Experten-Support."
+    },
+    "aboutTradePhere": {
+      "title": "Über Trade Phere",
+      "subtitle": "Wer wir sind und was wir tun!",
+      "description": "Willkommen auf der Website von Trade Phere! Unsere Investmentplattform ist das Produkt sorgfältiger Vorbereitung und fruchtbarer Arbeit von Experten auf dem Gebiet des Tradings, hochprofitablen Handels mit Kryptowährungen und Online-Marketing. Mit modernen Geschäftsmethoden und einem persönlichen Ansatz für jeden Kunden bieten wir ein einzigartiges Investmentmodell für Menschen, die Bitcoin nicht nur als Zahlungsmethode, sondern auch als zuverlässige Quelle stabilen Einkommens nutzen möchten. Das Geschäft von Trade Phere verwendet nur moderne Mining-Ausrüstung und handelt an den stabilsten Märkten, was das Risiko finanzieller Verluste für Kunden minimiert und ihnen ein stabiles, täglich angesammeltes Einkommen garantiert."
+    },
+    "reliability": {
+      "title": "Wir führen mit Zuverlässigkeit",
+      "subtitle": "Warum uns wählen?",
+      "description": "Wenn Sie sich hier befinden, suchen Sie definitiv nach zuverlässigen und profitablen Investitionen. Ja, Sie sind genau am richtigen Ort! Unser Unternehmen bietet Vermögensverwaltung höchster Qualität auf Basis von Devisen und profitablem Handel über Bitcoin-Börsen. Es gibt keinen anderen weltweiten Finanzmarkt, der eine tägliche Fähigkeit garantieren kann, konstante Gewinne mit den großen Preisschwankungen von Bitcoin zu generieren. Die vorgeschlagenen Modalitäten zur Stärkung der Zusammenarbeit werden von jedem akzeptiert, der Kryptowährung verwendet und ihre fantastischen Aussichten kennt. Ihre Einzahlung arbeitet kontinuierlich und macht täglich Gewinn mit der Möglichkeit, Gewinne sofort abzuheben. Treten Sie noch heute unserem Unternehmen bei und beginnen Sie hohe Gewinne zu erzielen!"
+    },
+    "legal": {
+      "title": "Rechtliches",
+      "subtitle": "Wir sind verifiziert, zuverlässig und vertrauenswürdig!",
+      "description": "Als in Großbritannien registriertes Unternehmen operieren wir mit vollständiger Transparenz und halten uns an strenge Vorschriften, die alle Krypto- und Finanzgeschäfte regeln, um Vertrauen und Zuverlässigkeit zu gewährleisten.",
+      "viewCertificate": "Zertifikat anzeigen"
+    },
+    "income": {
+      "title": "Ihr Einkommen vergrößern",
+      "subtitle": "Trade Phere beste Features",
+      "feature1": {
+        "title": "Garantierte Sicherheit",
+        "description": "Unser GeoTrust EV SSL-Zertifikat garantiert die Sicherheit Ihrer Transaktionen."
+      },
+      "feature2": {
+        "title": "Sofortige Zahlungen",
+        "description": "Erhalten Sie Ihre Zahlung sofort, sobald Sie sie anfordern!"
+      },
+      "feature3": {
+        "title": "Robuster Server-Schutz",
+        "description": "Die NEX_Capital-Website verwendet einen sehr leistungsstarken dedizierten Server mit höchstem Schutzniveau."
+      }
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "question1": {
+        "title": "Was ist Trade Phere und wie funktioniert es?",
+        "answer": "Trade Phere ist eine Investmentplattform, die sich auf Kryptowährungs-Trading und Mining konzentriert. Wir verwenden moderne Ausrüstung und handeln an stabilen Märkten, um unseren Kunden tägliche Gewinne zu bieten und gleichzeitig finanzielle Risiken zu minimieren."
+      },
+      "question2": {
+        "title": "Wie sicher sind meine Investitionen bei Trade Phere?",
+        "answer": "Wir priorisieren Sicherheit mit unserem GeoTrust EV SSL-Zertifikat, robustem Server-Schutz und Einhaltung der britischen Vorschriften. Als in Großbritannien registriertes Unternehmen operieren wir mit vollständiger Transparenz und halten uns an strenge Finanzvorschriften."
+      },
+      "question3": {
+        "title": "Welche Kryptowährungen unterstützt Trade Phere?",
+        "answer": "Trade Phere konzentriert sich hauptsächlich auf Bitcoin-Trading und Mining, unterstützt aber auch andere wichtige Kryptowährungen einschließlich Ethereum und USDT für Einzahlungen und Auszahlungen."
+      },
+      "question4": {
+        "title": "Wie schnell kann ich meine Gewinne abheben?",
+        "answer": "Wir bieten sofortige Zahlungen! Sie können jederzeit Abhebungen anfordern, und Ihre Zahlungen werden sofort nach Anfrage verarbeitet, was Ihnen vollständige Kontrolle über Ihre Gewinne gibt."
+      },
+      "question5": {
+        "title": "Was macht Trade Phere anders als andere Investmentplattformen?",
+        "answer": "Unsere einzigartige Kombination aus moderner Mining-Ausrüstung, Experten-Trading-Strategien, täglicher Gewinngeneration, sofortigen Abhebungen und vollständiger regulatorischer Compliance hebt uns ab. Wir bieten Transparenz, Sicherheit und konsistente Renditen."
+      },
+      "question6": {
+        "title": "Brauche ich Erfahrung im Kryptowährungs-Trading zum Investieren?",
+        "answer": "Keine Erfahrung erforderlich! Unser Expertenteam übernimmt alle Trading-Aktivitäten für Sie. Wir bieten eine benutzerfreundliche Plattform, wo Sie investieren und Ihr Portfolio wachsen sehen können, ohne technische Kenntnisse zu benötigen."
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontakt aufnehmen",
+    "subtitle": "Bereit, Ihre Trading-Reise zu beginnen? Wir sind hier, um Ihnen bei jedem Schritt zu helfen.",
+    "form": {
+      "name": "Ihr Name",
+      "email": "E-Mail-Adresse",
+      "subject": "Betreff",
+      "message": "Ihre Nachricht",
+      "send": "Nachricht senden",
+      "title": "Senden Sie uns eine Nachricht",
+      "lastName": "Nachname"
+    },
+    "info": {
+      "title": "Kontaktinformationen",
+      "email": "E-Mail an uns",
+      "emailValue": "support@nexcapital.com",
+      "response": "Antwortzeit",
+      "responseValue": "Innerhalb von 24 Stunden",
+      "support": "Support-Zeiten",
+      "supportValue": "24/7 verfügbar",
+      "location": "Standort",
+      "phone": "Telefon"
+    },
+    "chat": {
+      "title": "Live-Chat-Support",
+      "subtitle": "Erhalten Sie sofortige Hilfe von unserem Support-Team",
+      "placeholder": "Geben Sie Ihre Nachricht ein...",
+      "send": "Senden",
+      "description": "Benötigen Sie sofortige Hilfe? Unser Live-Chat-Support ist 24/7 verfügbar, um Ihnen bei allen Fragen zu helfen.",
+      "openChat": "Live-Chat Öffnen",
+      "support": "Live-Support",
+      "greeting": "Hallo! Wie können wir Ihnen heute helfen?",
+      "sampleMessage": "Ich habe eine Frage zu meinem Konto",
+      "response": "Vielen Dank für Ihre Kontaktaufnahme! Unser Team wird Ihnen in Kürze helfen."
+    },
+    "hours": {
+      "title": "Geschäftszeiten",
+      "weekdays": "Montag - Freitag",
+      "saturday": "Samstag",
+      "sunday": "Sonntag",
+      "closed": "Geschlossen"
+    }
+  },
+  "dashboard": {
+    "nav": {
+      "home": "Startseite",
+      "plans": "Pläne",
+      "wallet": "Wallet",
+      "history": "Verlauf",
+      "market": "Markt",
+      "deposit": "Einzahlung",
+      "withdrawal": "Auszahlung",
+      "logout": "Abmelden"
+    },
+    "home": {
+      "welcome": "Willkommen zurück",
+      "totalBalance": "Gesamtguthaben",
+      "dailyProfit": "Täglicher Gewinn",
+      "activeInvestments": "Aktive Investitionen",
+      "totalWithdrawn": "Gesamt ausgezahlt",
+      "portfolioOverview": "Portfolio-Übersicht",
+      "recentTransactions": "Letzte Transaktionen",
+      "marketWatch": "Marktbeobachtung",
+      "quickActions": "Schnellaktionen",
+      "viewAll": "Alle anzeigen",
+      "deposit": "Einzahlen",
+      "withdraw": "Auszahlen"
+    },
+    "plans": {
+      "title": "Investitionspläne",
+      "subtitle": "Wählen Sie den perfekten Plan für Ihre Investitionsziele",
+      "selectPlan": "Plan auswählen",
+      "minDeposit": "Mindesteinzahlung",
+      "dailyReturn": "Tägliche Rendite",
+      "duration": "Laufzeit",
+      "totalReturn": "Gesamtrendite",
+      "currentPlan": "Ihr Aktueller Plan",
+      "active": "Aktiv",
+      "mostPopular": "Beliebteste",
+      "investmentAmount": "Investitionsbetrag"
+    },
+    "wallet": {
+      "title": "Wallet-Übersicht",
+      "subtitle": "Verwalten Sie Ihre Kryptowährungsguthaben",
+      "totalBalance": "Gesamtguthaben",
+      "availableBalance": "Verfügbares Guthaben",
+      "pendingDeposits": "Ausstehende Einzahlungen",
+      "cryptoHoldings": "Krypto-Bestände",
+      "quickActions": "Schnellaktionen",
+      "marketValue": "Marktwert",
+      "change24h": "24h Änderung",
+      "deposit": "Einzahlen",
+      "withdraw": "Auszahlen",
+      "trade": "Handeln"
+    },
+    "history": {
+      "title": "Transaktionsverlauf",
+      "subtitle": "Verfolgen Sie alle Ihre Transaktionen",
+      "filterByType": "Nach Typ filtern",
+      "filterByStatus": "Nach Status filtern",
+      "searchTransactions": "Transaktionen suchen",
+      "allTypes": "Alle Typen",
+      "allStatuses": "Alle Status",
+      "type": "Typ",
+      "amount": "Betrag",
+      "status": "Status",
+      "date": "Datum",
+      "id": "ID",
+      "noTransactions": "Keine Transaktionen gefunden"
+    },
+    "market": {
+      "title": "Marktdaten",
+      "subtitle": "Live-Kryptowährungspreise und Charts",
+      "featuredMarkets": "Wichtige Märkte",
+      "tradingPairs": "Handelspaare",
+      "price": "Preis",
+      "change": "Änderung",
+      "volume": "Volumen",
+      "marketCap": "Marktkapitalisierung",
+      "startTrading": "Trading starten",
+      "searchMarkets": "Märkte suchen...",
+      "pair": "Paar",
+      "action": "Aktion",
+      "high24h": "24h Hoch",
+      "low24h": "24h Tief",
+      "bitcoinChart": "Bitcoin Chart",
+      "ethereumChart": "Ethereum Chart"
+    },
+    "deposit": {
+      "title": "Geld einzahlen",
+      "subtitle": "Wählen Sie Kryptowährung und Betrag zur Einzahlung",
+      "selectCrypto": "Kryptowährung auswählen",
+      "depositAmount": "Einzahlungsbetrag",
+      "amount": "Betrag (USD)",
+      "enterAmount": "Betrag eingeben",
+      "proceedToDeposit": "Zur Einzahlung",
+      "error": "Fehler",
+      "selectCryptoAndAmount": "Bitte wählen Sie Krypto und geben Sie Betrag ein"
+    },
+    "depositConfirm": {
+      "title": "Einzahlung bestätigen",
+      "subtitle": "Senden Sie Ihre Einzahlung an die unten stehende Adresse",
+      "walletAddress": "Wallet-Adresse",
+      "currentValue": "Aktueller Wert",
+      "depositInstructions": "Einzahlungsanweisungen",
+      "instruction1": "Kopieren Sie die obige Wallet-Adresse",
+      "instruction2": "Senden Sie den gewünschten Betrag an diese Adresse",
+      "instruction3": "Laden Sie den Zahlungsnachweis unten hoch",
+      "instruction4": "Klicken Sie auf 'Einzahlung bestätigen' um fortzufahren",
+      "uploadProof": "Zahlungsnachweis hochladen",
+      "selectFile": "Datei auswählen",
+      "confirmDeposit": "Einzahlung bestätigen",
+      "copyAddress": "Adresse kopieren",
+      "addressCopied": "Adresse kopiert!",
+      "pleaseUploadProof": "Bitte laden Sie den Zahlungsnachweis hoch",
+      "depositRequested": "Einzahlung angefordert",
+      "depositBeingProcessed": "Ihre Einzahlung wird bearbeitet"
+    },
+    "withdrawal": {
+      "title": "Geld abheben",
+      "subtitle": "Wählen Sie Kryptowährung und geben Sie Auszahlungsdetails ein",
+      "selectCrypto": "Kryptowährung auswählen",
+      "withdrawalDetails": "Auszahlungsdetails",
+      "walletAddress": "Wallet-Adresse",
+      "enterWalletAddress": "Wallet-Adresse eingeben",
+      "amount": "Betrag",
+      "enterAmount": "Betrag eingeben",
+      "available": "Verfügbar",
+      "requestWithdrawal": "Auszahlung anfordern",
+      "error": "Fehler",
+      "fillAllFields": "Bitte füllen Sie alle Felder aus",
+      "withdrawalRequested": "Auszahlung angefordert",
+      "withdrawalBeingProcessed": "Ihre Auszahlung wird bearbeitet"
+    }
+  },
+  "admin": {
+    "nav": {
+      "dashboard": "Dashboard",
+      "users": "Benutzer",
+      "transactions": "Transaktionen",
+      "settings": "Einstellungen",
+      "logout": "Abmelden",
+      "adminPanel": "Admin-Panel",
+      "admin": "Administrator"
+    },
+    "login": {
+      "title": "Admin-Anmeldung",
+      "subtitle": "Melden Sie sich bei Ihrem Admin-Panel an",
+      "username": "Benutzername",
+      "password": "Passwort",
+      "login": "Anmelden",
+      "error": "Fehler",
+      "invalidCredentials": "Ungültige Anmeldedaten",
+      "loggingIn": "Anmeldung...",
+      "loginFailed": "Anmeldung fehlgeschlagen. Bitte versuchen Sie es später erneut oder laden Sie die Seite neu",
+      "fillAllFields": "Bitte füllen Sie alle Felder aus"
+    },
+    "dashboard": {
+      "title": "Admin-Dashboard",
+      "totalUsers": "Gesamte Benutzer",
+      "activeUsers": "Aktive Benutzer",
+      "totalDeposits": "Gesamte Einzahlungen",
+      "totalWithdrawals": "Gesamte Auszahlungen",
+      "pendingTransactions": "Ausstehende Transaktionen",
+      "systemHealth": "Systemzustand",
+      "userGrowth": "Benutzerwachstum",
+      "transactionVolume": "Transaktionsvolumen",
+      "recentActivity": "Letzte Aktivitäten",
+      "quickActions": "Schnellaktionen",
+      "viewAllUsers": "Alle Benutzer anzeigen",
+      "viewTransactions": "Transaktionen anzeigen",
+      "systemSettings": "Systemeinstellungen",
+      "subtitle": "Übersicht über Ihr System",
+      "totalTransactions": "Transaktionen Gesamt",
+      "completedTransactions": "Abgeschlossene Transaktionen",
+      "rejectedTransactions": "Abgelehnte Transaktionen",
+      "newUsersWeek": "+12% seit letzter Woche",
+      "monthlyGrowth": "+8% seit letztem Monat",
+      "depositsGrowth": "+15% seit letztem Monat",
+      "withdrawalsChange": "+5% seit letztem Monat",
+      "requiresAttention": "Erfordert Aufmerksamkeit",
+      "successfullyProcessed": "Erfolgreich verarbeitet",
+      "failedTransactions": "Fehlgeschlagene Transaktionen",
+      "recentTransactions": "Neueste Transaktionen"
+    },
+    "users": {
+      "title": "Alle Benutzer",
+      "subtitle": "Benutzerkonten verwalten und Aktivitäten überwachen",
+      "searchUsers": "Benutzer suchen",
+      "filterByStatus": "Nach Status filtern",
+      "allStatuses": "Alle Status",
+      "name": "Name",
+      "email": "E-Mail",
+      "balance": "Guthaben",
+      "status": "Status",
+      "joined": "Beigetreten",
+      "actions": "Aktionen",
+      "view": "Anzeigen",
+      "noUsers": "Keine Benutzer gefunden",
+      "totalUsers": "Benutzer Gesamt",
+      "filterUsers": "Benutzer Filtern",
+      "searchPlaceholder": "Nach Benutzername, Name oder E-Mail suchen...",
+      "usersList": "Benutzerliste ({{count}})"
+    },
+    "userDetail": {
+      "title": "Benutzerdetails",
+      "subtitle": "Benutzerinformationen anzeigen und bearbeiten",
+      "personalInfo": "Persönliche Informationen",
+      "accountInfo": "Kontoinformationen",
+      "name": "Name",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "address": "Adresse",
+      "balance": "Guthaben",
+      "status": "Status",
+      "joinedDate": "Beitrittsdatum",
+      "lastLogin": "Letzte Anmeldung",
+      "totalDeposits": "Gesamte Einzahlungen",
+      "totalWithdrawals": "Gesamte Auszahlungen",
+      "accountActions": "Kontoaktionen",
+      "editUser": "Benutzer bearbeiten",
+      "suspendUser": "Benutzer sperren",
+      "activateUser": "Benutzer aktivieren",
+      "updateBalance": "Guthaben aktualisieren",
+      "recentTransactions": "Letzte Transaktionen",
+      "backToUsers": "Zurück zu Benutzern",
+      "updateUserInfo": "Benutzerinformationen aktualisieren",
+      "newBalance": "Neues Guthaben",
+      "updateBalanceAction": "Guthaben aktualisieren",
+      "userUpdated": "Benutzer aktualisiert",
+      "userInfoUpdated": "Benutzerinformationen wurden erfolgreich aktualisiert"
+    },
+    "transactions": {
+      "title": "Alle Transaktionen",
+      "subtitle": "Alle Plattform-Transaktionen verwalten und genehmigen",
+      "filterByType": "Nach Typ filtern",
+      "filterByStatus": "Nach Status filtern",
+      "searchTransactions": "Transaktionen suchen",
+      "allTypes": "Alle Typen",
+      "allStatuses": "Alle Status",
+      "user": "Benutzer",
+      "type": "Typ",
+      "amount": "Betrag",
+      "status": "Status",
+      "date": "Datum",
+      "actions": "Aktionen",
+      "approve": "Genehmigen",
+      "reject": "Ablehnen",
+      "noTransactions": "Keine Transaktionen gefunden",
+      "transactionApproved": "Transaktion genehmigt",
+      "transactionRejected": "Transaktion abgelehnt",
+      "transactionUpdated": "Transaktion wurde erfolgreich aktualisiert",
+      "total": "Gesamt",
+      "filterTransactions": "Transaktionen Filtern",
+      "searchPlaceholder": "Nach Benutzer, Typ oder Kryptowährung suchen...",
+      "allStatus": "Alle Status",
+      "deposit": "Einzahlung",
+      "withdrawal": "Auszahlung",
+      "pending": "Ausstehend",
+      "completed": "Abgeschlossen",
+      "rejected": "Abgelehnt",
+      "transactionsList": "Transaktionsliste ({{count}})",
+      "approved": "Transaktion Genehmigt",
+      "markedCompleted": "Die Transaktion wurde als abgeschlossen markiert",
+      "hasBeenRejected": "Die Transaktion wurde abgelehnt",
+      "downloadingReceipt": "Beleg wird heruntergeladen",
+      "receiptFor": "Beleg für {{user}} Transaktion"
+    },
+    "settings": {
+      "title": "Admin-Einstellungen",
+      "subtitle": "Systemkonfiguration verwalten",
+      "changePassword": "Passwort ändern",
+      "currentPassword": "Aktuelles Passwort",
+      "newPassword": "Neues Passwort",
+      "confirmPassword": "Passwort bestätigen",
+      "updatePassword": "Passwort aktualisieren",
+      "walletAddresses": "Wallet-Adressen",
+      "bitcoinAddress": "Bitcoin-Adresse",
+      "ethereumAddress": "Ethereum-Adresse",
+      "usdtAddress": "USDT-Adresse",
+      "updateAddresses": "Adressen aktualisieren",
+      "systemSettings": "Systemeinstellungen",
+      "maintenanceMode": "Wartungsmodus",
+      "enableRegistration": "Registrierung aktivieren",
+      "enableDeposits": "Einzahlungen aktivieren",
+      "enableWithdrawals": "Auszahlungen aktivieren",
+      "saveSettings": "Einstellungen speichern",
+      "passwordUpdated": "Passwort aktualisiert",
+      "passwordUpdatedSuccess": "Ihr Passwort wurde erfolgreich aktualisiert",
+      "addressesUpdated": "Adressen aktualisiert",
+      "walletAddressesUpdated": "Wallet-Adressen wurden erfolgreich aktualisiert",
+      "settingsUpdated": "Einstellungen aktualisiert",
+      "systemSettingsUpdated": "Systemeinstellungen wurden erfolgreich aktualisiert",
+      "error": "Fehler",
+      "passwordsDoNotMatch": "Passwörter stimmen nicht überein",
+      "fillAllFields": "Bitte füllen Sie alle Felder aus"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Bei Ihrem Konto anmelden",
+      "subtitle": "Geben Sie Ihre Anmeldedaten ein, um auf Ihr Dashboard zuzugreifen",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "login": "Anmelden",
+      "noAccount": "Haben Sie kein Konto?",
+      "signUp": "Registrieren",
+      "error": "Fehler",
+      "fillAllFields": "Bitte füllen Sie alle Felder aus",
+      "username": "Benutzername",
+      "usernamePlaceholder": "Geben Sie Ihren Benutzernamen ein",
+      "passwordPlaceholder": "Geben Sie Ihr Passwort ein",
+      "signIn": "Anmelden",
+      "signingIn": "Anmeldung...",
+      "signUpHere": "Hier registrieren",
+      "backToHome": "Zurück zur Startseite"
+    },
+    "signup": {
+      "title": "Konto erstellen",
+      "subtitle": "Registrieren Sie sich, um mit dem Trading zu beginnen",
+      "name": "Vollständiger Name",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "confirmPassword": "Passwort bestätigen",
+      "signUp": "Registrieren",
+      "haveAccount": "Haben Sie bereits ein Konto?",
+      "signIn": "Anmelden",
+      "error": "Fehler",
+      "fillAllFields": "Bitte füllen Sie alle Felder aus",
+      "passwordsDoNotMatch": "Passwörter stimmen nicht überein",
+      "accountCreated": "Konto erstellt",
+      "accountCreatedSuccess": "Ihr Konto wurde erfolgreich erstellt!"
+    }
+  },
+  "footer": {
+    "description": "Trader weltweit mit modernster Technologie und Expertensupport stärken.",
+    "trading": "Trading",
+    "features": "Features",
+    "pricing": "Preise",
+    "resources": "Ressourcen",
+    "help": "Hilfe-Center",
+    "blog": "Blog",
+    "legal": "Rechtliches",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "copyright": "© 2024 NEX_Capital. Alle Rechte vorbehalten."
+  },
+  "common": {
+    "loading": "Laden...",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "view": "Anzeigen",
+    "back": "Zurück",
+    "next": "Weiter",
+    "previous": "Vorherige",
+    "search": "Suchen",
+    "filter": "Filter",
+    "all": "Alle",
+    "none": "Keine",
+    "yes": "Ja",
+    "no": "Nein",
+    "success": "Erfolg",
+    "error": "Fehler",
+    "warning": "Warnung",
+    "info": "Information",
+    "status": {
+      "active": "Aktiv",
+      "inactive": "Inaktiv",
+      "suspended": "Gesperrt",
+      "pending": "Ausstehend",
+      "completed": "Abgeschlossen",
+      "rejected": "Abgelehnt"
+    }
+  }
+}

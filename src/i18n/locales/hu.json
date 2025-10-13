@@ -1,0 +1,554 @@
+{
+  "nav": {
+    "about": "Rólunk",
+    "faq": "GYIK",
+    "contact": "Kapcsolat",
+    "dashboard": "Irányítópult",
+    "startTrading": "Kereskedés indítása"
+  },
+  "hero": {
+    "title": "Kereskedj magabiztosan, növekedj a",
+    "titleHighlight": "NEX_Capital-rel",
+    "subtitle": "Csatlakozz a sikeres kereskedők ezreihez, akik a fejlett platformunkat használják. Kezdj a lehető legkisebb összeggel és figyeld, ahogy befektetéseid növekednek a bevált stratégiáinkkal.",
+    "cta": "Kezdd el most a kereskedést",
+    "badge": "Új generációs kripto kereskedési platform"
+  },
+  "features": {
+    "title": "Miért válaszd a NEX_Capital-t?",
+    "subtitle": "Fedezd fel azokat az erőteljes funkciókat, amelyek világszerte a kereskedők választott platformjává tesznek minket"
+  },
+  "pricing": {
+    "title": "Válaszd ki kereskedési csomagodat",
+    "subtitle": "Válaszd ki a tökéletes csomagot, amely megfelel befektetési céljaidnak és kereskedési tapasztalatodnak",
+    "monthly": "Havi",
+    "mostPopular": "Legnépszerűbb",
+    "getStarted": "Kezdés",
+    "plan500": {
+      "name": "Kezdő csomag",
+      "price": "$500",
+      "description": "Tökéletes kezdőknek, akik most indítják kereskedési útjukat",
+      "features": [
+        "Alapvető kereskedési eszközök",
+        "E-mail támogatás",
+        "Havi piaci jelentések",
+        "Kockázatkezelési útmutató"
+      ]
+    },
+    "plan1000": {
+      "name": "Alap csomag",
+      "price": "$1,000",
+      "description": "Ideális tapasztalt kereskedőknek",
+      "features": [
+        "Fejlett kereskedési eszközök",
+        "Kiemelt támogatás",
+        "Heti piaci elemzés",
+        "Portfólió optimalizálás",
+        "Mobil kereskedési alkalmazás"
+      ]
+    },
+    "plan5000": {
+      "name": "Professzionális csomag",
+      "price": "$5,000",
+      "description": "Komoly kereskedőknek, akik maximális hozamra törekszenek",
+      "features": [
+        "Professzionális kereskedési csomag",
+        "0-24 dedikált támogatás",
+        "Napi piaci betekintések",
+        "Fejlett analitika",
+        "Személyes kereskedési tanácsadó",
+        "API hozzáférés"
+      ]
+    },
+    "plan10000": {
+      "name": "Elit csomag",
+      "price": "$10,000",
+      "description": "Prémium funkciók elit kereskedőknek",
+      "features": [
+        "Elit kereskedési platform",
+        "VIP támogatási vonal",
+        "Valós idejű piaci adatok",
+        "Egyedi kereskedési stratégiák",
+        "Dedikált ügyfélmenedzser",
+        "Exkluzív piackutatás",
+        "Fejlett kockázatkezelés"
+      ]
+    },
+    "plan200000": {
+      "name": "Intézményi csomag",
+      "price": "$200,000",
+      "description": "Vállalati szintű megoldások intézményi ügyfeleknek",
+      "features": [
+        "Intézményi szintű platform",
+        "Fehér kesztyűs szolgáltatás",
+        "Egyedi integráció",
+        "Intézményi árazás",
+        "Dedikált kereskedési pult",
+        "Szabályozási megfelelés",
+        "Többeszköz kereskedés",
+        "Korlátlan API hívások"
+      ]
+    }
+  },
+  "about": {
+    "title": "Rólunk",
+    "whoWeAre": {
+      "title": "Kik vagyunk",
+      "subtitle": "Üdvözlünk a Trade Phere-nél!",
+      "description": "Az átláthatóságra, biztonságra és innovációra összpontosítva képessé tesszük az embereket, hogy gyorsan és hatékonyan növeljék bevételeiket, élvonalbeli technológiával és szakértői támogatással."
+    },
+    "aboutTradePhere": {
+      "title": "A Trade Phere-ről",
+      "subtitle": "Kik vagyunk és mit csinálunk!",
+      "description": "Üdvözlünk a Trade Phere weboldalán! Befektetési platformunk a kereskedés, a rendkívül jövedelmező kriptovaluta kereskedés és az online marketing területén dolgozó szakértők gondos előkészítésének és gyümölcsöző munkájának eredménye. A modern üzleti módszerek és az egyéni megközelítés alkalmazásával egyedi befektetési modellt kínálunk azoknak, akik a Bitcoint nemcsak fizetési módként, hanem stabil jövedelem megbízható forrásaként is szeretnék használni. A Trade Phere csak modern bányászati berendezéseket használ és a legstabilabb piacokon kereskedik, ami minimalizálja az ügyfelek pénzügyi veszteségének kockázatát és garantálja számukra a stabil, minden naptári napon jóváírt bevételt."
+    },
+    "reliability": {
+      "title": "A megbízhatóság vezérel minket",
+      "subtitle": "Miért válassz minket?",
+      "description": "Ha itt találod magad, akkor biztosan megbízható és jövedelmező befektetést keresel. Igen, pont jó helyen jársz! Cégünk a legmagasabb minőségű vagyonkezelést kínálja devizapiaci és jövedelmező kereskedés alapján a Bitcoin tőzsdéken keresztül. Nincs más világméretű pénzügyi piac, amely napi képességet garantálhatna állandó profit generálására a Bitcoin nagy árfolyam-ingadozásaival. A javasolt együttműködési módozatok mindenki számára elfogadhatóak lesznek, aki kriptovalutát használ és ismeri annak fantasztikus kilátásait. Betéted folyamatosan dolgozik és minden nap profitot termel, azonnali profit kivonási lehetőséggel. Csatlakozz cégünkhöz még ma és kezdj el magas profitot termelni!"
+    },
+    "legal": {
+      "title": "Jogi információk",
+      "subtitle": "Ellenőrzött, megbízható és megbízható vagyunk!",
+      "description": "UK-ban bejegyzett vállalatként teljes átláthatósággal működünk, betartva az összes kripto- és pénzügyi kereskedést szabályozó szigorú előírásokat, hogy biztosítsuk a bizalmat és megbízhatóságot.",
+      "viewCertificate": "Tanúsítvány megtekintése"
+    },
+    "income": {
+      "title": "Növeld bevételed",
+      "subtitle": "Trade Phere legjobb funkciói",
+      "feature1": {
+        "title": "Garantált biztonság",
+        "description": "GeoTrust EV SSL tanúsítványunk garantálja tranzakcióid biztonságát."
+      },
+      "feature2": {
+        "title": "Azonnali kifizetések",
+        "description": "Kéréssel egyidejűleg azonnal megkapod kifizetésed!"
+      },
+      "feature3": {
+        "title": "Erőteljes szerver védelem",
+        "description": "A NEX_Capital weboldal nagyon erőteljes dedikált szervert használ a legmagasabb szintű védelemmel."
+      }
+    },
+    "faq": {
+      "title": "Gyakran Ismételt Kérdések",
+      "question1": {
+        "title": "Mi az a Trade Phere és hogyan működik?",
+        "answer": "A Trade Phere egy befektetési platform, amely kriptovaluta kereskedésre és bányászatra fókuszál. Modern berendezéseket használunk és stabil piacokon kereskedünk, hogy ügyfeleink számára napi profitot biztosítsunk, miközben minimalizáljuk a pénzügyi kockázatokat."
+      },
+      "question2": {
+        "title": "Mennyire biztonságosak befektetéseim a Trade Phere-nél?",
+        "answer": "A biztonságot helyezzük előtérbe GeoTrust EV SSL tanúsítványunkkal, erőteljes szerver védelemmel és az UK szabályozásoknak való megfeleléssel. UK-ban bejegyzett vállalatként teljes átláthatósággal működünk és betartjuk a szigorú pénzügyi előírásokat."
+      },
+      "question3": {
+        "title": "Milyen kriptovalutákat támogat a Trade Phere?",
+        "answer": "A Trade Phere elsősorban Bitcoin kereskedésre és bányászatra fókuszál, de támogatunk más főbb kriptovalutákat is, beleértve az Ethereumot és az USDT-t befizetésekhez és kivonásokhoz."
+      },
+      "question4": {
+        "title": "Milyen gyorsan tudom kivenni profitom?",
+        "answer": "Azonnali kifizetéseket kínálunk! Bármikor kérhetsz kivonást, és kifizetésed azonnal feldolgozásra kerül kéréskor, így teljes kontrollod van bevételeid felett."
+      },
+      "question5": {
+        "title": "Mi teszi a Trade Phere-t különbözővé más befektetési platformoktól?",
+        "answer": "A modern bányászati berendezések, szakértői kereskedési stratégiák, napi profitgenerálás, azonnali kivonások és teljes szabályozási megfelelés egyedülálló kombinációja különböztet meg minket. Átláthatóságot, biztonságot és következetes hozamokat kínálunk."
+      },
+      "question6": {
+        "title": "Szükséges-e kriptovaluta kereskedési tapasztalat a befektetéshez?",
+        "answer": "Nem szükséges tapasztalat! Szakértői csapatunk kezeli az összes kereskedési tevékenységet helyetted. Felhasználóbarát platformot biztosítunk, ahol befektethetsz és figyelheted portfóliód növekedését anélkül, hogy bármilyen technikai tudásra lenne szükséged."
+      }
+    }
+  },
+  "contact": {
+    "title": "Lépj kapcsolatba velünk",
+    "subtitle": "Készen állsz kereskedési utad megkezdésére? Minden lépésben segítünk.",
+    "form": {
+      "title": "Küldj nekünk üzenetet",
+      "name": "Neved",
+      "lastName": "Vezetéknév",
+      "email": "E-mail cím",
+      "subject": "Tárgy",
+      "message": "Üzeneted",
+      "send": "Üzenet küldése"
+    },
+    "info": {
+      "title": "Kapcsolati információk",
+      "email": "Írj nekünk",
+      "emailValue": "support@nexcapitalcom",
+      "location": "Helyszín",
+      "phone": "Telefon",
+      "response": "Válaszidő",
+      "responseValue": "24 órán belül",
+      "support": "Támogatási órák",
+      "supportValue": "0-24 elérhető"
+    },
+    "hours": {
+      "title": "Nyitvatartási idő",
+      "weekdays": "Hétfő - Péntek",
+      "saturday": "Szombat",
+      "sunday": "Vasárnap",
+      "closed": "Zárva"
+    },
+    "chat": {
+      "title": "Élő chat támogatás",
+      "subtitle": "Azonnali segítség támogatási csapatunktól",
+      "description": "Azonnali segítségre van szükséged? Élő chat támogatásunk 0-24 elérhető, hogy segítsen bármilyen kérdésben.",
+      "openChat": "Chat megnyitása",
+      "support": "Élő támogatás",
+      "greeting": "Helló! Miben segíthetünk ma?",
+      "sampleMessage": "Kérdésem van a fiókommal kapcsolatban",
+      "response": "Köszönjük, hogy felkerestél minket! Csapatunk hamarosan segít.",
+      "placeholder": "Írd be üzeneted...",
+      "send": "Küldés"
+    }
+  },
+  "dashboard": {
+    "nav": {
+      "home": "Kezdőlap",
+      "plans": "Csomagok",
+      "wallet": "Tárca",
+      "history": "Történet",
+      "market": "Piac",
+      "deposit": "Befizetés",
+      "withdrawal": "Kivonás",
+      "logout": "Kijelentkezés"
+    },
+    "home": {
+      "welcome": "Üdv újra",
+      "totalBalance": "Teljes egyenleg",
+      "dailyProfit": "Napi profit",
+      "activeInvestments": "Aktív befektetések",
+      "totalWithdrawn": "Összesen kivonva",
+      "portfolioOverview": "Portfólió áttekintés",
+      "recentTransactions": "Legutóbbi tranzakciók",
+      "marketWatch": "Piaci figyelő",
+      "quickActions": "Gyors műveletek",
+      "viewAll": "Összes megtekintése",
+      "deposit": "Befizetés",
+      "withdraw": "Kivonás"
+    },
+    "plans": {
+      "title": "Befektetési csomagok",
+      "subtitle": "Válaszd ki a tökéletes csomagot befektetési céljaidhoz",
+      "currentPlan": "Jelenlegi csomagod",
+      "active": "Aktív",
+      "mostPopular": "Legnépszerűbb",
+      "investmentAmount": "Befektetési összeg",
+      "selectPlan": "Csomag kiválasztása",
+      "minDeposit": "Min befizetés",
+      "dailyReturn": "Napi hozam",
+      "duration": "Időtartam",
+      "totalReturn": "Teljes hozam"
+    },
+    "wallet": {
+      "title": "Tárca áttekintés",
+      "subtitle": "Kezeld kriptovaluta egyenlegeid",
+      "totalBalance": "Teljes egyenleg",
+      "availableBalance": "Elérhető egyenleg",
+      "pendingDeposits": "Függőben lévő befizetések",
+      "cryptoHoldings": "Kripto birtokok",
+      "quickActions": "Gyors műveletek",
+      "marketValue": "Piaci érték",
+      "change24h": "24ó változás",
+      "deposit": "Befizetés",
+      "withdraw": "Kivonás",
+      "trade": "Kereskedés"
+    },
+    "history": {
+      "title": "Tranzakciós előzmények",
+      "subtitle": "Kövesd nyomon összes tranzakciódat",
+      "filterByType": "Szűrés típus szerint",
+      "filterByStatus": "Szűrés állapot szerint",
+      "searchTransactions": "Tranzakciók keresése",
+      "allTypes": "Minden típus",
+      "allStatuses": "Minden állapot",
+      "type": "Típus",
+      "amount": "Összeg",
+      "status": "Állapot",
+      "date": "Dátum",
+      "id": "Azonosító",
+      "noTransactions": "Nem találhatók tranzakciók"
+    },
+    "market": {
+      "title": "Piaci adatok",
+      "subtitle": "Élő kriptovaluta árak és grafikonok",
+      "featuredMarkets": "Kiemelt piacok",
+      "tradingPairs": "Kereskedési párok",
+      "searchMarkets": "Piacok keresése...",
+      "pair": "Pár",
+      "price": "Ár",
+      "change": "Változás",
+      "volume": "Volumen",
+      "action": "Művelet",
+      "high24h": "24ó csúcs",
+      "low24h": "24ó mélypont",
+      "bitcoinChart": "Bitcoin grafikon",
+      "ethereumChart": "Ethereum grafikon",
+      "marketCap": "Piaci kapitalizáció",
+      "startTrading": "Kereskedés indítása"
+    },
+    "deposit": {
+      "title": "Pénz befizetése",
+      "subtitle": "Válassz kriptovalutát és összeget befizetéshez",
+      "selectCrypto": "Kriptovaluta kiválasztása",
+      "depositAmount": "Befizetési összeg",
+      "amount": "Összeg (USD)",
+      "enterAmount": "Összeg megadása",
+      "proceedToDeposit": "Folytatás befizetéshez",
+      "error": "Hiba",
+      "selectCryptoAndAmount": "Kérlek válassz kriptovalutát és add meg az összeget"
+    },
+    "depositConfirm": {
+      "title": "Befizetés megerősítése",
+      "subtitle": "Küldd befizetésed az alábbi címre",
+      "walletAddress": "Tárca cím",
+      "currentValue": "Jelenlegi érték",
+      "depositInstructions": "Befizetési útmutató",
+      "instruction1": "Másold ki a fenti tárca címet",
+      "instruction2": "Küldd a kívánt összeget erre a címre",
+      "instruction3": "Töltsd fel a fizetési bizonylatot alább",
+      "instruction4": "Kattints a 'Befizetés megerősítése' gombra a folytatáshoz",
+      "uploadProof": "Fizetési bizonylat feltöltése",
+      "selectFile": "Fájl kiválasztása",
+      "confirmDeposit": "Befizetés megerősítése",
+      "copyAddress": "Cím másolása",
+      "addressCopied": "Cím másolva!",
+      "pleaseUploadProof": "Kérlek töltsd fel a fizetési bizonylatot",
+      "depositRequested": "Befizetés kérelmezve",
+      "depositBeingProcessed": "Befizetésed feldolgozás alatt van"
+    },
+    "withdrawal": {
+      "title": "Pénz kivonása",
+      "subtitle": "Válassz kriptovalutát és add meg a kivonási részleteket",
+      "selectCrypto": "Kriptovaluta kiválasztása",
+      "withdrawalDetails": "Kivonási részletek",
+      "walletAddress": "Tárca cím",
+      "enterWalletAddress": "Tárca cím megadása",
+      "amount": "Összeg",
+      "enterAmount": "Összeg megadása",
+      "available": "Elérhető",
+      "requestWithdrawal": "Kivonás kérelme",
+      "error": "Hiba",
+      "fillAllFields": "Kérlek töltsd ki az összes mezőt",
+      "withdrawalRequested": "Kivonás kérelmezve",
+      "withdrawalBeingProcessed": "Kivonásod feldolgozás alatt van"
+    }
+  },
+  "admin": {
+    "nav": {
+      "dashboard": "Irányítópult",
+      "users": "Felhasználók",
+      "transactions": "Tranzakciók",
+      "settings": "Beállítások",
+      "logout": "Kijelentkezés",
+      "adminPanel": "Admin panel",
+      "admin": "Admin"
+    },
+    "login": {
+      "title": "Admin bejelentkezés",
+      "subtitle": "Hozzáférés admin panelhez",
+      "username": "Felhasználónév",
+      "password": "Jelszó",
+      "login": "Bejelentkezés",
+      "loggingIn": "Bejelentkezés...",
+      "error": "Hiba",
+      "invalidCredentials": "Érvénytelen hitelesítő adatok",
+      "loginFailed": "Sikertelen bejelentkezés. Kérlek próbáld újra később vagy töltsd újra az oldalt",
+      "fillAllFields": "Kérlek töltsd ki az összes mezőt"
+    },
+    "dashboard": {
+      "title": "Admin irányítópult",
+      "subtitle": "Rendszer áttekintése",
+      "totalUsers": "Összes felhasználó",
+      "totalTransactions": "Összes tranzakció",
+      "totalDeposits": "Összes befizetés",
+      "totalWithdrawals": "Összes kivonás",
+      "pendingTransactions": "Függőben lévő tranzakciók",
+      "completedTransactions": "Befejezett tranzakciók",
+      "rejectedTransactions": "Elutasított tranzakciók",
+      "newUsersWeek": "+12% a múlt héthez képest",
+      "monthlyGrowth": "+8% a múlt hónaphoz képest",
+      "depositsGrowth": "+15% a múlt hónaphoz képest",
+      "withdrawalsChange": "+5% a múlt hónaphoz képest",
+      "requiresAttention": "Figyelmet igényel",
+      "successfullyProcessed": "Sikeresen feldolgozva",
+      "failedTransactions": "Sikertelen tranzakciók",
+      "recentTransactions": "Legutóbbi tranzakciók"
+    },
+    "users": {
+      "title": "Összes felhasználó",
+      "subtitle": "Felhasználói fiókok kezelése és tevékenység figyelése",
+      "totalUsers": "Összes felhasználó",
+      "filterUsers": "Felhasználók szűrése",
+      "searchPlaceholder": "Keresés felhasználónév, név vagy e-mail alapján...",
+      "usersList": "Felhasználók listája ({{count}})",
+      "balance": "Egyenleg"
+    },
+    "userDetail": {
+      "title": "Felhasználó részletei",
+      "subtitle": "Felhasználói információk megtekintése és szerkesztése",
+      "personalInfo": "Személyes információk",
+      "accountInfo": "Fiók információk",
+      "name": "Név",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "address": "Cím",
+      "balance": "Egyenleg",
+      "status": "Állapot",
+      "joinedDate": "Csatlakozás dátuma",
+      "lastLogin": "Utolsó bejelentkezés",
+      "totalDeposits": "Összes befizetés",
+      "totalWithdrawals": "Összes kivonás",
+      "accountActions": "Fiók műveletek",
+      "editUser": "Felhasználó szerkesztése",
+      "suspendUser": "Felhasználó felfüggesztése",
+      "activateUser": "Felhasználó aktiválása",
+      "updateBalance": "Egyenleg frissítése",
+      "recentTransactions": "Legutóbbi tranzakciók",
+      "backToUsers": "Vissza a felhasználókhoz",
+      "updateUserInfo": "Felhasználói info frissítése",
+      "newBalance": "Új egyenleg",
+      "updateBalanceAction": "Egyenleg frissítése",
+      "userUpdated": "Felhasználó frissítve",
+      "userInfoUpdated": "Felhasználói információk sikeresen frissítve"
+    },
+    "transactions": {
+      "title": "Összes tranzakció",
+      "subtitle": "Platform összes tranzakciójának kezelése és jóváhagyása",
+      "total": "Összesen",
+      "filterTransactions": "Tranzakciók szűrése",
+      "searchPlaceholder": "Keresés felhasználó, típus vagy kriptovaluta alapján...",
+      "allTypes": "Minden típus",
+      "allStatus": "Minden állapot",
+      "deposit": "Befizetés",
+      "withdrawal": "Kivonás",
+      "pending": "Függőben",
+      "completed": "Befejezve",
+      "rejected": "Elutasítva",
+      "transactionsList": "Tranzakciók listája ({{count}})",
+      "approved": "Tranzakció jóváhagyva",
+      "markedCompleted": "Tranzakció befejezettként megjelölve",
+      "hasBeenRejected": "Tranzakció elutasítva",
+      "downloadingReceipt": "Bizonylat letöltése",
+      "receiptFor": "Bizonylat {{user}} tranzakcióhoz"
+    },
+    "settings": {
+      "title": "Admin beállítások",
+      "subtitle": "Rendszer konfiguráció kezelése",
+      "changePassword": "Jelszó módosítása",
+      "currentPassword": "Jelenlegi jelszó",
+      "newPassword": "Új jelszó",
+      "confirmPassword": "Jelszó megerősítése",
+      "updatePassword": "Jelszó frissítése",
+      "walletAddresses": "Tárca címek",
+      "bitcoinAddress": "Bitcoin cím",
+      "ethereumAddress": "Ethereum cím",
+      "usdtAddress": "USDT cím",
+      "updateAddresses": "Címek frissítése",
+      "systemSettings": "Rendszer beállítások",
+      "maintenanceMode": "Karbantartási mód",
+      "enableRegistration": "Regisztráció engedélyezése",
+      "enableDeposits": "Befizetések engedélyezése",
+      "enableWithdrawals": "Kivonások engedélyezése",
+      "saveSettings": "Beállítások mentése",
+      "passwordUpdated": "Jelszó frissítve",
+      "passwordUpdatedSuccess": "Jelszavad sikeresen frissítve",
+      "addressesUpdated": "Címek frissítve",
+      "walletAddressesUpdated": "Tárca címek sikeresen frissítve",
+      "settingsUpdated": "Beállítások frissítve",
+      "systemSettingsUpdated": "Rendszer beállítások sikeresen frissítve",
+      "error": "Hiba",
+      "passwordsDoNotMatch": "Jelszavak nem egyeznek",
+      "fillAllFields": "Kérlek töltsd ki az összes mezőt",
+      "passwordTooShort": "A jelszónak legalább 6 karakter hosszúnak kell lennie",
+      "systemInformation": "Rendszer információk",
+      "platformVersion": "Platform verzió",
+      "lastUpdated": "Utoljára frissítve",
+      "serverStatus": "Szerver állapot",
+      "online": "Online"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Jelentkezz be fiókodba",
+      "subtitle": "Add meg hitelesítő adataid az irányítópulthoz való hozzáféréshez",
+      "username": "Felhasználónév",
+      "usernamePlaceholder": "Add meg felhasználóneved",
+      "email": "E-mail",
+      "password": "Jelszó",
+      "passwordPlaceholder": "Add meg jelszavad",
+      "signIn": "Bejelentkezés",
+      "signingIn": "Bejelentkezés...",
+      "login": "Bejelentkezés",
+      "noAccount": "Nincs még fiókod?",
+      "signUp": "Regisztrálj",
+      "signUpHere": "Regisztrálj itt",
+      "backToHome": "Vissza a főoldalra",
+      "error": "Hiba",
+      "fillAllFields": "Kérlek töltsd ki az összes mezőt"
+    },
+    "signup": {
+      "title": "Fiók létrehozása",
+      "subtitle": "Csatlakozz a Trade Phere-hez ma",
+      "firstName": "Keresztnév",
+      "lastName": "Vezetéknév",
+      "username": "Felhasználónév",
+      "password": "Jelszó",
+      "confirmPassword": "Jelszó megerősítése",
+      "createAccount": "Fiók létrehozása",
+      "creatingAccount": "Fiók létrehozása...",
+      "firstNamePlaceholder": "János",
+      "lastNamePlaceholder": "Kovács",
+      "usernamePlaceholder": "Válassz felhasználónevet",
+      "passwordPlaceholder": "Hozz létre jelszót",
+      "confirmPasswordPlaceholder": "Erősítsd meg jelszavad",
+      "haveAccount": "Már van fiókod?",
+      "signIn": "Jelentkezz be itt",
+      "backToHome": "Vissza a főoldalra",
+      "passwordsDoNotMatch": "Jelszavak nem egyeznek",
+      "fillAllFields": "Kérlek töltsd ki az összes mezőt",
+      "accountCreated": "Fiók létrehozva",
+      "signupFailed": "Fiók létrehozása sikertelen. Kérlek próbáld újra később"
+    }
+  },
+  "footer": {
+    "description": "Kereskedők felhatalmazása világszerte élvonalbeli technológiával és szakértői támogatással.",
+    "trading": "Kereskedés",
+    "features": "Funkciók",
+    "pricing": "Árak",
+    "resources": "Források",
+    "help": "Segítség központ",
+    "blog": "Blog",
+    "legal": "Jogi",
+    "privacy": "Adatvédelmi irányelvek",
+    "terms": "Szolgáltatási feltételek",
+    "copyright": "© 2024 NEX_Capital. Minden jog fenntartva."
+  },
+  "common": {
+    "loading": "Betöltés...",
+    "save": "Mentés",
+    "cancel": "Mégse",
+    "confirm": "Megerősítés",
+    "delete": "Törlés",
+    "edit": "Szerkesztés",
+    "view": "Megtekintés",
+    "back": "Vissza",
+    "next": "Következő",
+    "previous": "Előző",
+    "search": "Keresés",
+    "filter": "Szűrés",
+    "all": "Összes",
+    "none": "Egyik sem",
+    "yes": "Igen",
+    "no": "Nem",
+    "success": "Siker",
+    "error": "Hiba",
+    "warning": "Figyelmeztetés",
+    "info": "Információ",
+    "status": {
+      "active": "Aktív",
+      "inactive": "Inaktív",
+      "suspended": "Felfüggesztve",
+      "pending": "Függőben",
+      "completed": "Befejezve",
+      "rejected": "Elutasítva"
+    }
+  }
+}

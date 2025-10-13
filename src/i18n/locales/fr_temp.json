@@ -1,0 +1,55 @@
+{
+  "contact": {
+    "form": {
+      "title": "Envoyez-nous un Message",
+      "lastName": "Nom de Famille"
+    },
+    "info": {
+      "location": "Localisation",
+      "phone": "Téléphone"
+    },
+    "hours": {
+      "title": "Heures d'Ouverture",
+      "weekdays": "Lundi - Vendredi",
+      "saturday": "Samedi",
+      "sunday": "Dimanche",
+      "closed": "Fermé"
+    },
+    "chat": {
+      "description": "Besoin d'aide immédiate? Notre support de chat en direct est disponible 24/7 pour vous aider avec toutes vos questions.",
+      "openChat": "Ouvrir le Chat en Direct",
+      "support": "Support en Direct",
+      "greeting": "Bonjour! Comment pouvons-nous vous aider aujourd'hui?",
+      "sampleMessage": "J'ai une question sur mon compte",
+      "response": "Merci de nous avoir contactés! Notre équipe vous aidera sous peu."
+    }
+  },
+  "dashboard": {
+    "plans": {
+      "currentPlan": "Votre Plan Actuel",
+      "active": "Actif",
+      "mostPopular": "Plus Populaire",
+      "investmentAmount": "Montant d'Investissement"
+    },
+    "market": {
+      "searchMarkets": "Rechercher des marchés...",
+      "pair": "Paire",
+      "action": "Action",
+      "high24h": "Max 24h",
+      "low24h": "Min 24h",
+      "bitcoinChart": "Graphique Bitcoin",
+      "ethereumChart": "Graphique Ethereum"
+    }
+  },
+  "auth": {
+    "login": {
+      "username": "Nom d'utilisateur",
+      "usernamePlaceholder": "Entrez votre nom d'utilisateur",
+      "passwordPlaceholder": "Entrez votre mot de passe",
+      "signIn": "Se Connecter",
+      "signingIn": "Connexion...",
+      "signUpHere": "Inscrivez-vous ici",
+      "backToHome": "Retour à l'Accueil"
+    }
+  }
+}

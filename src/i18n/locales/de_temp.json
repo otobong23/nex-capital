@@ -1,0 +1,55 @@
+{
+  "contact": {
+    "form": {
+      "title": "Senden Sie uns eine Nachricht",
+      "lastName": "Nachname"
+    },
+    "info": {
+      "location": "Standort",
+      "phone": "Telefon"
+    },
+    "hours": {
+      "title": "Geschäftszeiten",
+      "weekdays": "Montag - Freitag",
+      "saturday": "Samstag",
+      "sunday": "Sonntag",
+      "closed": "Geschlossen"
+    },
+    "chat": {
+      "description": "Benötigen Sie sofortige Hilfe? Unser Live-Chat-Support ist 24/7 verfügbar, um Ihnen bei allen Fragen zu helfen.",
+      "openChat": "Live-Chat Öffnen",
+      "support": "Live-Support",
+      "greeting": "Hallo! Wie können wir Ihnen heute helfen?",
+      "sampleMessage": "Ich habe eine Frage zu meinem Konto",
+      "response": "Vielen Dank für Ihre Kontaktaufnahme! Unser Team wird Ihnen in Kürze helfen."
+    }
+  },
+  "dashboard": {
+    "plans": {
+      "currentPlan": "Ihr Aktueller Plan",
+      "active": "Aktiv",
+      "mostPopular": "Beliebteste",
+      "investmentAmount": "Investitionsbetrag"
+    },
+    "market": {
+      "searchMarkets": "Märkte suchen...",
+      "pair": "Paar",
+      "action": "Aktion",
+      "high24h": "24h Hoch",
+      "low24h": "24h Tief",
+      "bitcoinChart": "Bitcoin Chart",
+      "ethereumChart": "Ethereum Chart"
+    }
+  },
+  "auth": {
+    "login": {
+      "username": "Benutzername",
+      "usernamePlaceholder": "Geben Sie Ihren Benutzernamen ein",
+      "passwordPlaceholder": "Geben Sie Ihr Passwort ein",
+      "signIn": "Anmelden",
+      "signingIn": "Anmeldung...",
+      "signUpHere": "Hier registrieren",
+      "backToHome": "Zurück zur Startseite"
+    }
+  }
+}

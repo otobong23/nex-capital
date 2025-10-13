@@ -1,0 +1,562 @@
+{
+  "nav": {
+    "about": "私たちについて",
+    "faq": "よくある質問",
+    "contact": "お問い合わせ",
+    "dashboard": "ダッシュボード",
+    "startTrading": "取引を開始"
+  },
+  "hero": {
+    "title": "自信を持って取引し、成長する",
+    "titleHighlight": "NEX_Capital",
+    "subtitle": "当社の先進的なプラットフォームを使用している数千人の成功したトレーダーに参加してください。可能な限り少額から始めて、実証済みの戦略で投資の成長を見守りましょう。",
+    "cta": "今すぐ取引を開始"
+  },
+  "features": {
+    "title": "なぜNEX_Capitalを選ぶのか？",
+    "subtitle": "世界中のトレーダーに選ばれる理由となる強力な機能を発見してください"
+  },
+  "pricing": {
+    "title": "あなたの取引プランを選択",
+    "subtitle": "投資目標と取引経験に合った完璧なプランを選択してください",
+    "monthly": "月額",
+    "mostPopular": "最も人気",
+    "getStarted": "始める",
+    "plan500": {
+      "name": "スタータープラン",
+      "price": "$500",
+      "description": "取引の旅を始める初心者に最適",
+      "features": [
+        "基本的な取引ツール",
+        "メールサポート",
+        "月次市場レポート",
+        "リスク管理ガイダンス"
+      ]
+    },
+    "plan1000": {
+      "name": "ベーシックプラン",
+      "price": "$1,000",
+      "description": "ある程度の経験を持つトレーダーに理想的",
+      "features": [
+        "高度な取引ツール",
+        "優先サポート",
+        "週次市場分析",
+        "ポートフォリオ最適化",
+        "モバイル取引アプリ"
+      ]
+    },
+    "plan5000": {
+      "name": "プロフェッショナルプラン",
+      "price": "$5,000",
+      "description": "最大のリターンを求める真剣なトレーダー向け",
+      "features": [
+        "プロフェッショナル取引スイート",
+        "24/7専用サポート",
+        "日次市場インサイト",
+        "高度な分析",
+        "個人取引アドバイザー",
+        "APIアクセス"
+      ]
+    },
+    "plan10000": {
+      "name": "エリートプラン",
+      "price": "$10,000",
+      "description": "エリートトレーダー向けのプレミアム機能",
+      "features": [
+        "エリート取引プラットフォーム",
+        "VIPサポートライン",
+        "リアルタイム市場データ",
+        "カスタム取引戦略",
+        "専用アカウントマネージャー",
+        "独占市場調査",
+        "高度なリスク管理"
+      ]
+    },
+    "plan200000": {
+      "name": "機関投資家プラン",
+      "price": "$200,000",
+      "description": "機関投資家向けのエンタープライズグレードソリューション",
+      "features": [
+        "機関投資家グレードプラットフォーム",
+        "ホワイトグローブサービス",
+        "カスタム統合",
+        "機関投資家価格",
+        "専用取引デスク",
+        "規制遵守",
+        "マルチアセット取引",
+        "無制限APIコール"
+      ]
+    }
+  },
+  "about": {
+    "title": "私たちについて",
+    "whoWeAre": {
+      "title": "私たちは誰か",
+      "subtitle": "Trade Phereへようこそ！",
+      "description": "透明性、セキュリティ、革新に焦点を当てて、最先端の技術と専門家のサポートに支えられて、個人が迅速かつ効率的に収入を増やすことを可能にします。"
+    },
+    "aboutTradePhere": {
+      "title": "Trade Phereについて",
+      "subtitle": "私たちは誰で、何をしているのか！",
+      "description": "Trade Phereのウェブサイトへようこそ！私たちの投資プラットフォームは、取引分野の専門家、暗号通貨での高収益取引、オンラインマーケティングの専門家による慎重な準備と実りある作業の産物です。現代的なビジネス手法と各クライアントへの個人的なアプローチを使用して、ビットコインを支払い方法としてだけでなく、安定した収入の信頼できる源として使用したい人々にユニークな投資モデルを提供しています。Trade Phereのビジネスは最新のマイニング機器のみを使用し、最も安定した市場で取引することで、顧客の財務損失リスクを最小限に抑え、毎暦日に蓄積される安定した収入を保証します。"
+    },
+    "reliability": {
+      "title": "私たちは信頼性でリードします",
+      "subtitle": "なぜ私たちを選ぶのか？",
+      "description": "ここにいるということは、確実に信頼できて収益性の高い投資を求めているということです。はい、あなたは正しい場所にいます！私たちの会社は、外国為替とビットコイン取引所を通じた収益性の高い取引に基づいて、最高品質の信託資産管理を提供します。ビットコインの大きな価格変動で継続的な利益を生成する日次能力を保証できる他の世界的な金融市場はありません。協力を強化するために提案されたモダリティは、暗号通貨を使用しその素晴らしい見通しを知っている誰もが受け入れるでしょう。あなたの預金は継続的に働き、利益を即座に引き出す能力と共に毎日利益を上げます。今日私たちの会社に参加して高い利益を上げ始めましょう！"
+    },
+    "legal": {
+      "title": "法的",
+      "subtitle": "私たちは検証済み、信頼性があり、信頼されています！",
+      "description": "英国登録会社として、私たちは完全な透明性を持って運営し、信頼と信頼性を確保するためにすべての暗号および金融取引を管轄する厳格な規制に従っています。",
+      "viewCertificate": "証明書を表示"
+    },
+    "income": {
+      "title": "あなたの収入を大きくする",
+      "subtitle": "Trade Phereの最高の機能",
+      "feature1": {
+        "title": "保証されたセキュリティ",
+        "description": "私たちのGeoTrust EV SSL証明書があなたの取引のセキュリティを保証します。"
+      },
+      "feature2": {
+        "title": "即座の支払い",
+        "description": "リクエストするとすぐに支払いを受け取れます！"
+      },
+      "feature3": {
+        "title": "堅牢なサーバー保護",
+        "description": "NEX_Capital ウェブサイトは最高レベルの保護を備えた非常に強力な専用サーバーを使用しています。"
+      }
+    },
+    "faq": {
+      "title": "よくある質問",
+      "question1": {
+        "title": "Trade Phereとは何で、どのように機能しますか？",
+        "answer": "Trade Phereは暗号通貨の取引とマイニングに焦点を当てた投資プラットフォームです。私たちは現代的な機器を使用し、安定した市場で取引することで、財務リスクを最小限に抑えながらクライアントに日次利益を提供します。"
+      },
+      "question2": {
+        "title": "Trade Phereでの私の投資はどれほど安全ですか？",
+        "answer": "私たちはGeoTrust EV SSL証明書、堅牢なサーバー保護、英国規制の遵守でセキュリティを優先しています。英国登録会社として、私たちは完全な透明性を持って運営し、厳格な金融規制に従っています。"
+      },
+      "question3": {
+        "title": "Trade Phereはどの暗号通貨をサポートしていますか？",
+        "answer": "Trade Phereは主にビットコインの取引とマイニングに焦点を当てていますが、預金と引き出しのためにイーサリアムやUSDTを含む他の主要な暗号通貨もサポートしています。"
+      },
+      "question4": {
+        "title": "利益をどれだけ早く引き出せますか？",
+        "answer": "即座の支払いを提供しています！いつでも引き出しをリクエストでき、あなたの支払いはリクエスト時に即座に処理され、あなたの収益を完全にコントロールできます。"
+      },
+      "question5": {
+        "title": "Trade Phereを他の投資プラットフォームと違うものにするのは何ですか？",
+        "answer": "現代的なマイニング機器、専門家の取引戦略、日次利益生成、即座の引き出し、完全な規制遵守のユニークな組み合わせが私たちを際立たせています。私たちは透明性、セキュリティ、一貫したリターンを提供します。"
+      },
+      "question6": {
+        "title": "投資するために暗号通貨取引の経験が必要ですか？",
+        "answer": "経験は不要です！私たちの専門家チームがあなたのためにすべての取引活動を処理します。技術的な知識を必要とせずに投資してポートフォリオの成長を見ることができるユーザーフレンドリーなプラットフォームを提供しています。"
+      }
+    }
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "subtitle": "取引の旅を始める準備はできていますか？私たちはあなたのすべてのステップをサポートします。",
+    "form": {
+      "name": "お名前",
+      "email": "メールアドレス",
+      "subject": "件名",
+      "message": "メッセージ",
+      "send": "メッセージを送信",
+      "title": "メッセージを送る",
+      "lastName": "姓"
+    },
+    "info": {
+      "title": "連絡先情報",
+      "email": "メールでお問い合わせ",
+      "emailValue": "support@nexcapitalcom",
+      "response": "応答時間",
+      "responseValue": "24時間以内",
+      "support": "サポート時間",
+      "supportValue": "24時間365日対応",
+      "location": "場所",
+      "phone": "電話"
+    },
+    "chat": {
+      "title": "ライブチャットサポート",
+      "subtitle": "サポートチームから即座にヘルプを受ける",
+      "placeholder": "メッセージを入力...",
+      "send": "送信",
+      "description": "即座のサポートが必要ですか？私たちのライブチャットサポートは24時間年中無休でご質問にお答えします。",
+      "openChat": "ライブチャットを開く",
+      "support": "ライブサポート",
+      "greeting": "こんにちは！今日はどのようにお手伝いできますか？",
+      "sampleMessage": "アカウントについて質問があります",
+      "response": "お問い合わせありがとうございます！チームが間もなくお手伝いします。"
+    },
+    "hours": {
+      "title": "営業時間",
+      "weekdays": "月曜日 - 金曜日",
+      "saturday": "土曜日",
+      "sunday": "日曜日",
+      "closed": "閉店"
+    }
+  },
+  "dashboard": {
+    "nav": {
+      "home": "ホーム",
+      "plans": "プラン",
+      "wallet": "ウォレット",
+      "history": "履歴",
+      "market": "マーケット",
+      "deposit": "入金",
+      "withdrawal": "出金",
+      "logout": "ログアウト"
+    },
+    "home": {
+      "welcome": "お帰りなさい",
+      "totalBalance": "総残高",
+      "dailyProfit": "日次利益",
+      "activeInvestments": "アクティブ投資",
+      "totalWithdrawn": "総出金額",
+      "portfolioOverview": "ポートフォリオ概要",
+      "recentTransactions": "最近の取引",
+      "marketWatch": "マーケットウォッチ",
+      "quickActions": "クイックアクション",
+      "viewAll": "すべて表示",
+      "deposit": "入金",
+      "withdraw": "出金"
+    },
+    "plans": {
+      "title": "投資プラン",
+      "subtitle": "投資目標に合った完璧なプランを選択してください",
+      "selectPlan": "プランを選択",
+      "minDeposit": "最小入金額",
+      "dailyReturn": "日次リターン",
+      "duration": "期間",
+      "totalReturn": "総リターン",
+      "currentPlan": "あなたの現在のプラン",
+      "active": "アクティブ",
+      "mostPopular": "最も人気",
+      "investmentAmount": "投資額"
+    },
+    "wallet": {
+      "title": "ウォレット概要",
+      "subtitle": "暗号通貨残高を管理",
+      "totalBalance": "総残高",
+      "availableBalance": "利用可能残高",
+      "pendingDeposits": "保留中の入金",
+      "cryptoHoldings": "暗号通貨保有",
+      "quickActions": "クイックアクション",
+      "marketValue": "市場価値",
+      "change24h": "24時間変化",
+      "deposit": "入金",
+      "withdraw": "出金",
+      "trade": "取引"
+    },
+    "history": {
+      "title": "取引履歴",
+      "subtitle": "すべての取引を追跡",
+      "filterByType": "タイプでフィルター",
+      "filterByStatus": "ステータスでフィルター",
+      "searchTransactions": "取引を検索",
+      "allTypes": "すべてのタイプ",
+      "allStatuses": "すべてのステータス",
+      "type": "タイプ",
+      "amount": "金額",
+      "status": "ステータス",
+      "date": "日付",
+      "id": "ID",
+      "noTransactions": "取引が見つかりません"
+    },
+    "market": {
+      "title": "マーケットデータ",
+      "subtitle": "リアルタイム暗号通貨価格とチャート",
+      "featuredMarkets": "注目マーケット",
+      "tradingPairs": "取引ペア",
+      "price": "価格",
+      "change": "変化",
+      "volume": "取引量",
+      "marketCap": "時価総額",
+      "startTrading": "取引開始",
+      "searchMarkets": "マーケットを検索...",
+      "pair": "ペア",
+      "action": "アクション",
+      "high24h": "24時間高値",
+      "low24h": "24時間安値",
+      "bitcoinChart": "ビットコインチャート",
+      "ethereumChart": "イーサリアムチャート"
+    },
+    "deposit": {
+      "title": "資金入金",
+      "subtitle": "暗号通貨と入金額を選択",
+      "selectCrypto": "暗号通貨を選択",
+      "depositAmount": "入金額",
+      "amount": "金額 (USD)",
+      "enterAmount": "金額を入力",
+      "proceedToDeposit": "入金に進む",
+      "error": "エラー",
+      "selectCryptoAndAmount": "暗号通貨を選択し金額を入力してください"
+    },
+    "depositConfirm": {
+      "title": "入金確認",
+      "subtitle": "以下のアドレスに入金を送信してください",
+      "walletAddress": "ウォレットアドレス",
+      "currentValue": "現在の価値",
+      "depositInstructions": "入金手順",
+      "instruction1": "上記のウォレットアドレスをコピー",
+      "instruction2": "このアドレスに希望額を送信",
+      "instruction3": "以下に支払い証明をアップロード",
+      "instruction4": "「入金確認」をクリックして続行",
+      "uploadProof": "支払い証明をアップロード",
+      "selectFile": "ファイルを選択",
+      "confirmDeposit": "入金確認",
+      "copyAddress": "アドレスをコピー",
+      "addressCopied": "アドレスがコピーされました！",
+      "pleaseUploadProof": "支払い証明をアップロードしてください",
+      "depositRequested": "入金リクエスト完了",
+      "depositBeingProcessed": "入金を処理中です"
+    },
+    "withdrawal": {
+      "title": "資金出金",
+      "subtitle": "暗号通貨を選択し出金詳細を入力",
+      "selectCrypto": "暗号通貨を選択",
+      "withdrawalDetails": "出金詳細",
+      "walletAddress": "ウォレットアドレス",
+      "enterWalletAddress": "ウォレットアドレスを入力",
+      "amount": "金額",
+      "enterAmount": "金額を入力",
+      "available": "利用可能",
+      "requestWithdrawal": "出金リクエスト",
+      "error": "エラー",
+      "fillAllFields": "すべてのフィールドを入力してください",
+      "withdrawalRequested": "出金リクエスト完了",
+      "withdrawalBeingProcessed": "出金を処理中です"
+    }
+  },
+  "admin": {
+    "nav": {
+      "dashboard": "ダッシュボード",
+      "users": "ユーザー",
+      "transactions": "取引",
+      "settings": "設定",
+      "logout": "ログアウト",
+      "adminPanel": "管理パネル",
+      "admin": "管理者"
+    },
+    "login": {
+      "title": "管理者ログイン",
+      "subtitle": "管理者パネルにログイン",
+      "username": "ユーザー名",
+      "password": "パスワード",
+      "login": "ログイン",
+      "error": "エラー",
+      "invalidCredentials": "無効な認証情報",
+      "loggingIn": "ログイン中...",
+      "loginFailed": "ログインに失敗しました。後でもう一度試すか、ページを再読み込みしてください",
+      "fillAllFields": "すべてのフィールドを入力してください"
+    },
+    "dashboard": {
+      "title": "管理者ダッシュボード",
+      "totalUsers": "総ユーザー数",
+      "activeUsers": "アクティブユーザー",
+      "totalDeposits": "総入金額",
+      "totalWithdrawals": "総出金額",
+      "pendingTransactions": "保留中の取引",
+      "systemHealth": "システム状態",
+      "userGrowth": "ユーザー成長",
+      "transactionVolume": "取引量",
+      "recentActivity": "最近のアクティビティ",
+      "quickActions": "クイックアクション",
+      "viewAllUsers": "全ユーザーを表示",
+      "viewTransactions": "取引を表示",
+      "systemSettings": "システム設定",
+      "subtitle": "システムの概要",
+      "totalTransactions": "総取引数",
+      "completedTransactions": "完了した取引",
+      "rejectedTransactions": "拒否された取引",
+      "newUsersWeek": "先週から+12%",
+      "monthlyGrowth": "先月から+8%",
+      "depositsGrowth": "先月から+15%",
+      "withdrawalsChange": "先月から+5%",
+      "requiresAttention": "注意が必要",
+      "successfullyProcessed": "正常に処理済み",
+      "failedTransactions": "失敗した取引",
+      "recentTransactions": "最近の取引"
+    },
+    "users": {
+      "title": "全ユーザー",
+      "subtitle": "ユーザーアカウントの管理とアクティビティの監視",
+      "searchUsers": "ユーザーを検索",
+      "filterByStatus": "ステータスでフィルター",
+      "allStatuses": "すべてのステータス",
+      "name": "名前",
+      "email": "メール",
+      "balance": "残高",
+      "status": "ステータス",
+      "joined": "参加日",
+      "actions": "アクション",
+      "view": "表示",
+      "noUsers": "ユーザーが見つかりません",
+      "totalUsers": "ユーザー総数",
+      "filterUsers": "ユーザーをフィルター",
+      "searchPlaceholder": "ユーザー名、名前、メールで検索...",
+      "usersList": "ユーザーリスト ({{count}})"
+    },
+    "userDetail": {
+      "title": "ユーザー詳細",
+      "subtitle": "ユーザー情報を表示・編集",
+      "personalInfo": "個人情報",
+      "accountInfo": "アカウント情報",
+      "name": "名前",
+      "email": "メール",
+      "phone": "電話",
+      "address": "住所",
+      "balance": "残高",
+      "status": "ステータス",
+      "joinedDate": "参加日",
+      "lastLogin": "最終ログイン",
+      "totalDeposits": "総入金額",
+      "totalWithdrawals": "総出金額",
+      "accountActions": "アカウントアクション",
+      "editUser": "ユーザー編集",
+      "suspendUser": "ユーザー停止",
+      "activateUser": "ユーザー有効化",
+      "updateBalance": "残高更新",
+      "recentTransactions": "最近の取引",
+      "backToUsers": "ユーザーに戻る",
+      "updateUserInfo": "ユーザー情報更新",
+      "newBalance": "新しい残高",
+      "updateBalanceAction": "残高を更新",
+      "userUpdated": "ユーザー更新完了",
+      "userInfoUpdated": "ユーザー情報が正常に更新されました"
+    },
+    "transactions": {
+      "title": "全取引",
+      "subtitle": "プラットフォームの全取引を管理・承認",
+      "filterByType": "タイプでフィルター",
+      "filterByStatus": "ステータスでフィルター",
+      "searchTransactions": "取引を検索",
+      "allTypes": "すべてのタイプ",
+      "allStatuses": "すべてのステータス",
+      "user": "ユーザー",
+      "type": "タイプ",
+      "amount": "金額",
+      "status": "ステータス",
+      "date": "日付",
+      "actions": "アクション",
+      "approve": "承認",
+      "reject": "拒否",
+      "noTransactions": "取引が見つかりません",
+      "transactionApproved": "取引が承認されました",
+      "transactionRejected": "取引が拒否されました",
+      "transactionUpdated": "取引が正常に更新されました",
+      "total": "合計",
+      "filterTransactions": "取引をフィルター",
+      "searchPlaceholder": "ユーザー、タイプ、暗号通貨で検索...",
+      "allStatus": "すべてのステータス",
+      "deposit": "入金",
+      "withdrawal": "出金",
+      "pending": "保留中",
+      "completed": "完了",
+      "rejected": "拒否",
+      "transactionsList": "取引リスト ({{count}})",
+      "approved": "取引が承認されました",
+      "markedCompleted": "取引が完了としてマークされました",
+      "hasBeenRejected": "取引が拒否されました",
+      "downloadingReceipt": "レシートをダウンロード中",
+      "receiptFor": "{{user}} の取引レシート"
+    },
+    "settings": {
+      "title": "管理者設定",
+      "subtitle": "システム構成を管理",
+      "changePassword": "パスワード変更",
+      "currentPassword": "現在のパスワード",
+      "newPassword": "新しいパスワード",
+      "confirmPassword": "パスワード確認",
+      "updatePassword": "パスワード更新",
+      "walletAddresses": "ウォレットアドレス",
+      "bitcoinAddress": "ビットコインアドレス",
+      "ethereumAddress": "イーサリアムアドレス",
+      "usdtAddress": "USDTアドレス",
+      "updateAddresses": "アドレス更新",
+      "systemSettings": "システム設定",
+      "maintenanceMode": "メンテナンスモード",
+      "enableRegistration": "登録を有効化",
+      "enableDeposits": "入金を有効化",
+      "enableWithdrawals": "出金を有効化",
+      "saveSettings": "設定を保存",
+      "passwordUpdated": "パスワード更新完了",
+      "passwordUpdatedSuccess": "パスワードが正常に更新されました",
+      "addressesUpdated": "アドレス更新完了",
+      "walletAddressesUpdated": "ウォレットアドレスが正常に更新されました",
+      "settingsUpdated": "設定更新完了",
+      "systemSettingsUpdated": "システム設定が正常に更新されました",
+      "error": "エラー",
+      "passwordsDoNotMatch": "パスワードが一致しません",
+      "fillAllFields": "すべてのフィールドを入力してください"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "アカウントにログイン",
+      "subtitle": "ダッシュボードにアクセスするために認証情報を入力してください",
+      "email": "メール",
+      "password": "パスワード",
+      "login": "ログイン",
+      "noAccount": "アカウントをお持ちでない方",
+      "signUp": "サインアップ",
+      "error": "エラー",
+      "fillAllFields": "すべてのフィールドを入力してください",
+      "username": "ユーザー名",
+      "usernamePlaceholder": "ユーザー名を入力",
+      "passwordPlaceholder": "パスワードを入力",
+      "signIn": "サインイン",
+      "signingIn": "サインイン中...",
+      "signUpHere": "こちらでサインアップ",
+      "backToHome": "ホームに戻る"
+    },
+    "signup": {
+      "title": "アカウント作成",
+      "subtitle": "取引を開始するためにサインアップ",
+      "name": "フルネーム",
+      "email": "メール",
+      "password": "パスワード",
+      "confirmPassword": "パスワード確認",
+      "signUp": "サインアップ",
+      "haveAccount": "既にアカウントをお持ちの方",
+      "signIn": "サインイン",
+      "error": "エラー",
+      "fillAllFields": "すべてのフィールドを入力してください",
+      "passwordsDoNotMatch": "パスワードが一致しません",
+      "accountCreated": "アカウント作成完了",
+      "accountCreatedSuccess": "アカウントが正常に作成されました！"
+    }
+  },
+  "common": {
+    "loading": "読み込み中...",
+    "save": "保存",
+    "cancel": "キャンセル",
+    "confirm": "確認",
+    "delete": "削除",
+    "edit": "編集",
+    "view": "表示",
+    "back": "戻る",
+    "next": "次へ",
+    "previous": "前へ",
+    "search": "検索",
+    "filter": "フィルター",
+    "all": "すべて",
+    "none": "なし",
+    "yes": "はい",
+    "no": "いいえ",
+    "success": "成功",
+    "error": "エラー",
+    "warning": "警告",
+    "info": "情報",
+    "status": {
+      "active": "アクティブ",
+      "inactive": "非アクティブ",
+      "suspended": "停止中",
+      "pending": "保留中",
+      "completed": "完了",
+      "rejected": "拒否"
+    }
+  }
+}
