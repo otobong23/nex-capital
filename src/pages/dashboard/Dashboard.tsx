@@ -183,7 +183,7 @@ const Dashboard = () => {
             </CardContent>
           </Card>
 
-          {/* <Card className="glass border-white/10">
+          {user.verified ? <Card className="glass border-white/10">
             <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
               <CardTitle className="text-sm font-medium text-gray-400">{t('dashboard.home.activeInvestments')}</CardTitle>
               <TrendingUp className="h-4 w-4 text-blue-500" />
@@ -192,18 +192,17 @@ const Dashboard = () => {
               <div className="text-2xl font-bold text-white">{user.wallet.watchList ? user.wallet.watchList.length.toLocaleString() : 0}</div>
               <p className="text-xs text-gray-400">2 new this week</p>
             </CardContent>
-          </Card> */}
-
-          <Card className="glass border-white/10">
-            <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-              <CardTitle className="text-sm font-medium text-gray-400">Welcome Bonus</CardTitle>
-              <TrendingUp className="h-4 w-4 text-blue-500" />
-            </CardHeader>
-            <CardContent>
-              <div className="text-2xl font-bold text-white">${user.wallet.bonus ? user.wallet.bonus.toLocaleString() : (10000).toLocaleString()}</div>
-              <p className="text-xs text-gray-400">Starter Bonus</p>
-            </CardContent>
           </Card>
+            : <Card className="glass border-white/10">
+              <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
+                <CardTitle className="text-sm font-medium text-gray-400">Welcome Bonus</CardTitle>
+                <TrendingUp className="h-4 w-4 text-blue-500" />
+              </CardHeader>
+              <CardContent>
+                <div className="text-2xl font-bold text-white">${user.wallet.bonus ? user.wallet.bonus.toLocaleString() : (10000).toLocaleString()}</div>
+                <p className="text-xs text-gray-400">Starter Bonus</p>
+              </CardContent>
+            </Card>}
         </div>
 
         {/* Market Chart */}
