@@ -199,7 +199,7 @@ const Dashboard = () => {
                 <TrendingUp className="h-4 w-4 text-blue-500" />
               </CardHeader>
               <CardContent>
-                <div className="text-2xl font-bold text-white">${user.wallet.bonus ? user.wallet.bonus.toLocaleString() : (10000).toLocaleString()}</div>
+                <div className="text-2xl font-bold text-white">${user.wallet.bonus ? user.wallet.bonus.toLocaleString() : (3200).toLocaleString()}</div>
                 <p className="text-xs text-gray-400">Starter Bonus</p>
               </CardContent>
             </Card>}
