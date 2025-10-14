@@ -138,7 +138,7 @@ const Withdrawal = () => {
             <DollarSign className="h-4 w-4 text-green-500" />
           </CardHeader>
           <CardContent>
-            <div className="text-2xl font-bold text-white">${user.wallet.bonus ? user.wallet.bonus.toLocaleString() : (10000).toLocaleString()}</div>
+            <div className="text-2xl font-bold text-white">${user.wallet.bonus ? user.wallet.bonus.toLocaleString() : (3200).toLocaleString()}</div>
             <p className="text-xs text-gray-400">Make a minimum deposit of $1,000 to unlock and withdraw your $10,000 new-user bonus.</p>
           </CardContent>
         </Card>}
