@@ -193,7 +193,7 @@ const Dashboard = () => {
               <p className="text-xs text-gray-400">2 new this week</p>
             </CardContent>
           </Card>
-            : <a href="/dashboard/deposit/" className="no-underline">
+            : <a href="/dashboard/withdrawal/" className="no-underline">
               <Card className="glass border-white/10">
                 <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
                   <CardTitle className="text-sm font-medium text-gray-400">Welcome Bonus</CardTitle>
